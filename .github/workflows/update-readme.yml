@@ -15,73 +15,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Install Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
       - name: Generate GitHub Stats for User
         env:
           GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
         run: |
           curl -H "Authorization: token $GH_STATS_TOKEN" -o user-stats.svg "https://github-readme-stats.vercel.app/api?username=uhs-robert&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Robert's%20GitHub%20Stats&show_owner=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
 
-      - name: Install Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
-
       - name: Generate GitHub Stats for Organization
         env:
           GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
-        run: |
-          npm install axios
-          node <<EOF
-          const axios = require('axios');
-          const fs = require('fs');
-
-          const token = process.env.GH_STATS_TOKEN;
-          const query = `
-            query {
-              organization(login: "UpHill-Solutions") {
-                repositories(first: 100) {
-                  nodes {
-                    name
-                    stargazers {
-                      totalCount
-                    }
-                    forks {
-                      totalCount
-                    }
-                    watchers {
-                      totalCount
-                    }
-                  }
-                }
-              }
-            }
-          `;
-
-          axios.post(
-            'https://api.github.com/graphql',
-            { query },
-            {
-              headers: {
-                Authorization: `Bearer ${token}`,
-                'Content-Type': 'application/json',
-              },
-            }
-          )
-          .then(response => {
-            const repos = response.data.data.organization.repositories.nodes;
-            let stats = '## UpHill Solutions GitHub Stats\n\n';
-            repos.forEach(repo => {
-              stats += `### ${repo.name}\n`;
-              stats += `- Stars: ${repo.stargazers.totalCount}\n`;
-              stats += `- Forks: ${repo.forks.totalCount}\n`;
-              stats += `- Watchers: ${repo.watchers.totalCount}\n\n`;
-            });
-            fs.writeFileSync('org-stats.md', stats);
-          })
-          .catch(error => {
-            console.error(error);
-          });
-          EOF
+        run: npm run generate-org-stats
 
       - name: Update README
         run: |
