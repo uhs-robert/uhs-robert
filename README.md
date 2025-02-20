@@ -1,1 +1,1 @@
-![GitHub Stats](stats.svg)
+![GitHub Stats](stats.svg.tmp)
