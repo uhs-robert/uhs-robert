@@ -1,0 +1,30 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate GitHub Stats
+        env:
+          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: |
+          curl -H "Authorization: token $GH_STATS_TOKEN" -o stats.svg "https://github-readme-stats.vercel.app/api?username=uhs-robert&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Robert's%20GitHub%20Stats&show_owner=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
+          echo '![GitHub Stats](stats.svg)' > README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add README.md stats.svg
+          git commit -m 'Update README with GitHub Stats'
+          git push
