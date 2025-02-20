@@ -6,6 +6,7 @@ on:
       - main
   schedule:
     - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch: # Allows manual trigger of the workflow
 
 jobs:
   update-readme:
@@ -21,12 +22,15 @@ jobs:
           curl -H "Authorization: token $GH_STATS_TOKEN" -o stats.svg "https://github-readme-stats.vercel.app/api?username=uhs-robert&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Robert's%20GitHub%20Stats&show_owner=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"
           echo '![GitHub Stats](stats.svg)' > README.md
 
+      - name: Configure Git
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+
       - name: Commit and push changes
         env:
           GH_ACTIONS_TOKEN: ${{ secrets.GH_ACTIONS_TOKEN }}
         run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GH_ACTIONS_TOKEN }}@github.com/${{ github.repository }}
           git add README.md stats.svg
           git commit -m 'Update README with GitHub Stats'
