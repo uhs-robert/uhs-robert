@@ -4,7 +4,9 @@
   "description": "GitHub Actions workflow for updating README with stats",
   "main": "index.js",
   "dependencies": {
-    "axios": "^1.7.9"
+    "axios": "^1.7.9",
+    "svgdom": "^0.1.0",
+    "svg.js": "^3.0.16"
   },
   "scripts": {
     "generate-org-stats": "node generate-org-stats.js"
