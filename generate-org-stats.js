@@ -17,7 +17,7 @@ const query = `
           defaultBranchRef {
             target {
               ... on Commit {
-                history {
+                history(first: 0) {
                   totalCount
                 }
               }
@@ -30,6 +30,9 @@ const query = `
             totalCount
           }
           stargazers {
+            totalCount
+          }
+          watchers {
             totalCount
           }
         }
@@ -54,17 +57,19 @@ axios.post(
   let totalPRs = 0;
   let totalIssues = 0;
   let totalStars = 0;
+  let totalWatchers = 0;
 
   repos.forEach(repo => {
     totalCommits += repo.defaultBranchRef.target.history.totalCount;
     totalPRs += repo.pullRequests.totalCount;
     totalIssues += repo.issues.totalCount;
     totalStars += repo.stargazers.totalCount;
+    totalWatchers += repo.watchers.totalCount;
   });
 
   const svg = SVG(document.documentElement).size(500, 200);
   svg.rect(500, 200).fill('#151515');
-  svg.text(`UpHill Solutions GitHub Stats`).fill('#ffffff').move(20, 20).font({ size: 20 });
+  svg.text('UpHill Solutions GitHub Stats').fill('#ffffff').move(20, 20).font({ size: 20 });
   svg.text(`Total Commits: ${totalCommits}`).fill('#79ff97').move(20, 60).font({ size: 16 });
   svg.text(`Total PRs: ${totalPRs}`).fill('#79ff97').move(20, 90).font({ size: 16 });
   svg.text(`Total Issues: ${totalIssues}`).fill('#79ff97').move(20, 120).font({ size: 16 });
