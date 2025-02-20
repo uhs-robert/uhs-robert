@@ -25,43 +25,7 @@ Welcome to my GitHub profile! I'm excited to share my projects and collaboration
 ## My GitHub Stats
 
 ![User GitHub Stats](user-stats.svg)
-
-
-### company-site
-- Stars: 0
-- Forks: 0
-- Watchers: 0
-
-### civil-communicator
-- Stars: 0
-- Forks: 0
-- Watchers: 0
-
-### template-knack-project
-- Stars: 0
-- Forks: 0
-- Watchers: 0
-
-### civilcommunicator-squarespace
-- Stars: 0
-- Forks: 0
-- Watchers: 0
-
-### api
-- Stars: 0
-- Forks: 0
-- Watchers: 0
-
-### ana_explorando
-- Stars: 0
-- Forks: 0
-- Watchers: 0
-
-### wp-client-portal
-- Stars: 0
-- Forks: 0
-- Watchers: 0
-
+![Org GitHub Stats](org-stats.svg)
 
 ## Languages and Tools
 
