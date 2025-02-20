@@ -1,0 +1,22 @@
+{
+  "name": "uhs-robert",
+  "version": "1.0.0",
+  "description": "GitHub Actions workflow for updating README with stats",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.7.9"
+  },
+  "scripts": {
+    "generate-org-stats": "node generate-org-stats.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uhs-robert/uhs-robert.git"
+  },
+  "author": "Robert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uhs-robert/uhs-robert/issues"
+  },
+  "homepage": "https://github.com/uhs-robert/uhs-robert#readme"
+}
