@@ -39,4 +39,9 @@ jobs:
 
       - name: Commit and push changes
         env:
-          GH_ACTIONS ▋
+          GH_ACTIONS_TOKEN: ${{ secrets.GH_ACTIONS_TOKEN }}
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GH_ACTIONS_TOKEN }}@github.com/${{ github.repository }}
+          git add README.md user-stats.svg org-stats.svg
+          git commit -m 'Update README with GitHub Stats'
+          git push origin HEAD:main
