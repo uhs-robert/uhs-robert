@@ -25,7 +25,8 @@ Welcome to my GitHub profile! I'm excited to share my projects and collaboration
 ## My GitHub Stats
 
 ![User GitHub Stats](user-stats.svg)
-![Org GitHub Stats](org-stats.svg)
+
+## UpHill Solutions GitHub Stats
 
 ## Languages and Tools
 
@@ -48,4 +49,12 @@ I specialize in web development and automation services. If you need help with c
 
 ## Get in Touch
 
-- **Email:** robert.hill@uphillsolutions ▋
+- **Email:** robert.hill@uphillsolutions.tech
+- **Website:** [Uphill Solutions](https://uphillsolutions.tech)
+- **LinkedIn:** [Robert Hill](https://www.linkedin.com/in/robert-hill-a6a189125/)
+
+Looking forward to connecting with you!
+
+---
+
+⭐️ From [uhs-robert](https://github.com/uhs-robert)
