@@ -37,8 +37,7 @@ jobs:
       - name: Update README
         run: |
           sed -i 's|!\[User GitHub Stats\](.*)|![User GitHub Stats](user-stats.svg)|' README.md
-          sed -i '/## UpHill Solutions GitHub Stats/r org-stats.md' README.md
-          sed -i '/## UpHill Solutions GitHub Stats/{N;d;}' README.md
+          sed -i 's|!\[Org GitHub Stats\](.*)|![Org GitHub Stats](org-stats.svg)|' README.md
 
       - name: Configure Git
         run: |
@@ -50,6 +49,6 @@ jobs:
           GH_ACTIONS_TOKEN: ${{ secrets.GH_ACTIONS_TOKEN }}
         run: |
           git remote set-url origin https://x-access-token:${{ secrets.GH_ACTIONS_TOKEN }}@github.com/${{ github.repository }}
-          git add README.md user-stats.svg org-stats.md
+          git add README.md user-stats.svg org-stats.svg
           git commit -m 'Update README with GitHub Stats'
           git push origin HEAD:main
