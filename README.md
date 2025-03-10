@@ -1,13 +1,12 @@
 # Hi there, I'm Robert 👋
 
-Welcome to my GitHub profile! I'm excited to share my projects and collaborations with you. I run a consulting business called [Uphill Solutions](https://uphillsolutions.tech) where I specialize in web development and automation services. Here's a little bit about me:
+I'm a software developer who runs a consulting business called [Uphill Solutions](https://uphillsolutions.tech) where I specialize in web development and automation services. The majority of my work on github is private however I do participate in some open source projects as well. Here's a little bit about me:
 
 ## About Me
 
-- 🌍 **Location:** Earth 🌎
+- 🌍 **Location:** USA
 - 💼 **Occupation:** Software Developer
 - 🔭 **Currently working on:** Various open-source projects, client projects in my private repositories, and personal development
-- 🌱 **Learning:** Advanced algorithms, AI, and machine learning
 - 💬 **Ask me about:** Anything related to web development, backend services, or just tech in general
 - 📫 **How to reach me:** [Email](mailto:robert.hill@uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
 - ⚡ **Fun fact:** I love hiking and exploring new places
