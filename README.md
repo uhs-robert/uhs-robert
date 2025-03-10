@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm excited to share my projects and collaboration
 ## My GitHub Stats
 
 ![User GitHub Stats](user-stats.svg)
-![Org GitHub Stats](org-stats.svg)
 
 ## Languages and Tools
 
