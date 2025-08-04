@@ -1,25 +1,28 @@
-# Hi there, I'm Robert 👋
+# Robert | Software Engineer & Founder, UpHill Solutions
 
-I'm a software developer who runs a consulting business called [Uphill Solutions](https://uphillsolutions.tech) where I specialize in web development and automation services. The majority of my work on github is private however I do participate in some open source projects as well. Here's a little bit about me:
+Founder of [Uphill Solutions](https://uphillsolutions.tech), focused on custom web and automation solutions. Most of my code here is private, but I contribute to open source when I can. Here’s a snapshot:
 
 ## About Me
 
 - 🌍 **Location:** USA
-- 💼 **Occupation:** Software Developer
-- 🔭 **Currently working on:** Various open-source projects, client projects in my private repositories, and personal development
-- 💬 **Ask me about:** Anything related to web development, backend services, or just tech in general
-- 📫 **How to reach me:** [Email](mailto:robert.hill@uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
-- ⚡ **Fun fact:** I love hiking and exploring new places
-
+- 💼 **Occupation:** Software Developer & Consultant
+- 🔭 **Currently working on:** Client project (private repos), open-source contributions, and personal tooling
+- 🧠 **Talk to Me About:** Web development, backend architecture, automation, or anything tech  
+- 📫 **Reach me:** [Email](mailto:robert.hill@uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
+- 🥾 **Fun Fact:** If I'm not online then I'm probably out hiking or exploring remote places
+  
 ## Languages I Know
 
 - **JavaScript**
 - **TypeScript**
 - **Python**
-- **HTML & CSS**
 - **SQL**
+- **HTML & CSS & Markdown**
+- **JSON / YAML / TOML**
+- **Shell**
 - **PHP**
 - **Lua**
+- **Regex**
 
 ## My GitHub Stats
 
@@ -28,19 +31,33 @@ I'm a software developer who runs a consulting business called [Uphill Solutions
 ## Languages and Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="40" height="40"/>
+  <!-- Core Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="Lua" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell" width="40" height="40"/>
+
+  <!-- Web & Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+
+  <!-- Tools & Platforms -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
 </p>
+
 
 ## Consulting Services
 
-I specialize in web development and automation services. If you need help with creating a website, developing a web application, or automating your business processes, feel free to reach out.
+I offer tailored web development and automation services for clients who need fast, maintainable, and scalable solutions. Whether you're launching a site, streamlining internal tools, or integrating systems — I can help.
 
 - **Website:** [Uphill Solutions](https://uphillsolutions.tech)
 
