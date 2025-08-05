@@ -52,9 +52,12 @@ Most of my code here is private, but I do contribute to open source when I can a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="Fedora" width="40" height="40"/>
 </p>
 
-## My GitHub Stats
 
-![User GitHub Stats](user-stats.svg)
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uhs-robert&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uhs-robert&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 ## Consulting Services
