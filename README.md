@@ -10,10 +10,10 @@ Most of my code here is private, but I do contribute to open source when I can a
 
 - 🌍 **Location:** USA
 - 💼 **Occupation:** Software Developer & Consultant
-- 🔭 **Currently working on:** Client project (private repos), open-source contributions, and personal tooling
-- 🧠 **Talk to Me About:** Web development, backend architecture, automation, or anything tech  
+- 🔭 **Currently working on:** Client projects (private repos), open-source contributions, and personal tooling
+- 🧠 **Talk to Me About:** Web development, backend architecture, automation, business automation, or anything tech  
 - 📫 **Reach me:** [Email](mailto:robert.hill@uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/) | [Website](https://uphillsolutions.tech)
-- 🥾 **Fun Fact:** If I'm not online then I'm probably out hiking or exploring remote places
+- 🥾 **Fun Fact:** If I'm not online then I'm probably out hiking or exploring with my wife
   
 ## Languages and Tools
 
