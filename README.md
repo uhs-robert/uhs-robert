@@ -1,6 +1,6 @@
 # Robert | Software Engineer & Founder, UpHill Solutions
-[![Github Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-❤️-blue)](https://github.com/sponsors/uhs-robert) 
-[![Ko-fi](https://img.shields.io/badge/ko--fi-buy%20me%20a%20coffee-darkgreen?logo=ko-fi&logoColor=white)](https://ko-fi.com/uphillsolutions)
+[![Github Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-❤️-blue?style=for-the-badge)](https://github.com/sponsors/uhs-robert) 
+[![Ko-fi](https://img.shields.io/badge/ko--fi-buy%20me%20a%20coffee-darkgreen?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/uphillsolutions)
 
 Founder of [UpHill Solutions](https://uphillsolutions.tech), focused on custom web and automation solutions. 
 
