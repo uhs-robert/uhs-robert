@@ -58,7 +58,7 @@ Most of my code here is private, but I do contribute to open source when I can a
 <p align=center >
   <a href="https://github.com/uhs-robert">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uhs-robert&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uhs-robert&layout=compact&langs_count=8&theme=ayu-mirage"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uhs-robert&layout=compact&langs_count=8&theme=ayu-mirage&count_private=true"/>
   </a>
 </p>
 
