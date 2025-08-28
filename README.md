@@ -2,7 +2,7 @@
 [![Github Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-❤️-blue?style=for-the-badge)](https://github.com/sponsors/uhs-robert) 
 [![Ko-fi](https://img.shields.io/badge/ko--fi-buy%20me%20a%20coffee-darkgreen?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/uphillsolutions)
 
-Founder of [UpHill Solutions](https://uphillsolutions.tech). I build tools for people like you to automate the boring stuff.
+Founder of [UpHill Solutions](https://uphillsolutions.tech). I build tools to automate the boring stuff.
 
 My public repos are where I dump my personal projects, and I'm pretty sure they all follow the same recipe: _a dash of script, a heaping pile of Linux-first, and a quiet prayer to the Church of Vim_ 🙏
 
