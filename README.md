@@ -1,19 +1,21 @@
-# Robert | Software Engineer & Founder, UpHill Solutions
+# Robert | Software Engineer & Founder, UpHill Solutions 🪨
 [![Github Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-❤️-blue?style=for-the-badge)](https://github.com/sponsors/uhs-robert) 
 [![Ko-fi](https://img.shields.io/badge/ko--fi-buy%20me%20a%20coffee-darkgreen?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/uphillsolutions)
 
-Founder of [UpHill Solutions](https://uphillsolutions.tech), focused on custom web and automation solutions. 
+Founder of [UpHill Solutions](https://uphillsolutions.tech). I build tools for people like you to automate the boring stuff.
 
-Most of my code here is private, but I do contribute to open source when I can and sponsorship does help me prioritize that.
+My public repos are where I dump my personal projects, and I'm pretty sure they all follow the same recipe: _a dash of script, a heaping pile of Linux-first, and a quiet prayer to the Church of Vim_ 🙏
+
+If my work has been helpful to you, consider sponsoring. It's the best way to support my ongoing crusade against tedious problems and helps me to keep both my projects **and my family** alive.
 
 ## About Me
 
 - 🌍 **Location:** USA
-- 💼 **Occupation:** Software Developer & Consultant
+- 💼 **Occupation:** Software Engineer & Consultant
 - 🔭 **Currently working on:** Client projects (private repos), open-source contributions, and personal tooling
 - 🧠 **Talk to Me About:** Web development, backend architecture, automation, business automation, or anything tech  
 - 📫 **Reach me:** [Email](mailto:robert.hill@uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/) | [Website](https://uphillsolutions.tech)
-- 🥾 **Fun Fact:** If I'm not online then I'm probably out hiking or exploring with my wife
+- 🥾 **Fun Fact:** If I'm not online, then I'm probably out hiking or exploring with my wife and kid(s)
   
 ## Languages and Tools
 
@@ -64,11 +66,13 @@ Most of my code here is private, but I do contribute to open source when I can a
 
 
 ## Consulting Services
-The UpHill Solution to your uphill struggles.
+At **UpHill Solutions**, we take the [Myth of Sisyphus](https://en.wikipedia.org/wiki/Sisyphus) _very seriously_. 
 
-I offer tailored web development and automation services for clients who need fast, maintainable, and scalable solutions. 
+That feeling of endlessly rolling a boulder up a hill, only to watch it roll back down? We've all been there. It’s time to stop the madness.
 
-Feel free to contact us if you're launching a site, streamlining internal tools, integrating systems, or just need a free 30-min consult to see what we can do to help.
+We specialize in freeing you from those repetitive, soul-crushing tasks. Our expertise in **web development** and **automation** delivers fast, scalable solutions that stay put.
+
+Whether you need to build a new site, integrate systems, or could benefit from a free 30-minute consult to see how we can help, we're ready to put that boulder in a better place for good.
 
 - [Contact Us](https://uphillsolutions.tech/contact-us/)
 
@@ -78,8 +82,4 @@ Feel free to contact us if you're launching a site, streamlining internal tools,
 - **Website:** [UpHill Solutions](https://uphillsolutions.tech)
 - **LinkedIn:** [Robert Hill](https://www.linkedin.com/in/robert-hill-a6a189125/)
 
-Looking forward to connecting with you!
-
----
-
-⭐️ From [uhs-robert](https://github.com/uhs-robert)
+⭐️ Thanks for making it all the way to the end. Looking forward to connecting with you!
