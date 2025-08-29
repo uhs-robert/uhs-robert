@@ -82,4 +82,4 @@ Whether you need to build a new site, integrate systems, or could benefit from a
 - **Website:** [UpHill Solutions](https://uphillsolutions.tech)
 - **LinkedIn:** [Robert Hill](https://www.linkedin.com/in/robert-hill-a6a189125/)
 
-⭐️ Thanks for making it all the way to the end. Looking forward to connecting with you!
+⭐️ Thanks for making it all the way to the end.
