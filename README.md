@@ -14,7 +14,7 @@ If my work has been helpful to you, consider sponsoring. It's the best way to su
 - 💼 **Occupation:** Software Engineer & Consultant
 - 🔭 **Currently working on:** Client projects (private repos), open-source contributions, and personal tooling
 - 🧠 **Talk to Me About:** Web development, backend architecture, automation, business automation, or anything tech  
-- 📫 **Reach me:** [Email](mailto:robert.hill@uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/) | [Website](https://uphillsolutions.tech)
+- 📫 **Reach me:** [Email](mailto:robert.hill@uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/) | [Website](https://uphillsolutions.tech) | [Contact Us](https://uphillsolutions.tech/contact-us/)
 - 🥾 **Fun Fact:** If I'm not online, then I'm probably out hiking or exploring with my wife and kid(s)
   
 ## Languages and Tools
@@ -68,16 +68,15 @@ If my work has been helpful to you, consider sponsoring. It's the best way to su
 ## Consulting Services
 At **UpHill Solutions**, we take the [Myth of Sisyphus](https://en.wikipedia.org/wiki/Sisyphus) _very seriously_. 
 
-That feeling of endlessly rolling a boulder up a hill, only to watch it roll back down? We've all been there. It’s time to stop the madness.
+You know that feeling of endlessly rolling a boulder up a hill, only to watch it roll back down and repeat? We've all been there. It’s time to stop the madness.
 
-We specialize in freeing you from those repetitive, soul-crushing tasks. Our expertise in **web development** and **automation** delivers fast, scalable solutions that stay put.
+We specialize in freeing you from those repetitive, soul-crushing tasks. Our expertise in **web development** and **automation** delivers fast, scalable solutions that stay put and won't roll back down again.
 
-Whether you need to build a new site, integrate systems, or could benefit from a free 30-minute consult to see how we can help, we're ready to put that boulder in a better place for good.
-
-- [Contact Us](https://uphillsolutions.tech/contact-us/)
+Whether you need to build a new site, integrate systems, or could benefit from a [free 30-minute consult](https://uphillsolutions.tech/contact-us/) to see how we can help, we're ready to put that boulder in a better place for good.
 
 ## Get in Touch
 
+- **Connect:** [Contact Us](https://uphillsolutions.tech/contact-us/)
 - **Email:** robert.hill@uphillsolutions.tech
 - **Website:** [UpHill Solutions](https://uphillsolutions.tech)
 - **LinkedIn:** [Robert Hill](https://www.linkedin.com/in/robert-hill-a6a189125/)
