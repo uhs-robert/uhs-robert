@@ -65,14 +65,16 @@ If my work has been helpful to you, consider sponsoring. It's the best way to su
 </p>
 
 
-## Consulting Services
-At **UpHill Solutions**, we take the [Myth of Sisyphus](https://en.wikipedia.org/wiki/Sisyphus) _very seriously_. 
+## Your Greek Tragedy Ends Here
+Sisyphus was cursed to roll a boulder up a hill for eternity. Sound familiar?
 
-You know that feeling of endlessly rolling a boulder up a hill, only to watch it roll back down and repeat? We've all been there. It’s time to stop the madness.
+The endless cycle of copying data, manually creating reports, or updating presentations... that's the modern business tragedy. You push that boulder up the hill every single week, only to find it waiting for you at the bottom again on Monday morning.
 
-We specialize in freeing you from those repetitive, soul-crushing tasks. Our expertise in **web development** and **automation** delivers fast, scalable solutions that stay put and won't roll back down again.
+At **UpHill Solutions**, we don't just help you push the boulder; we build the tools to break the cycle. Using smart **automation** and **web development**, we connect your systems, streamline your workflows, and give you back your time and sanity to focus on more meaningful work.
 
-Whether you need to build a new site, integrate systems, or could benefit from a [free 30-minute consult](https://uphillsolutions.tech/contact-us/) to see how we can help, we're ready to put that boulder in a better place for good.
+Let's find a permanent home for your boulder at the top of the hill.
+
+**[Book a free 30-minute strategy session](https://uphillsolutions.tech/contact-us/) to get started.**
 
 ## Get in Touch
 
