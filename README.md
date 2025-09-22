@@ -81,5 +81,5 @@ If you have a boulder you’re tired of rolling uphill, we’ll help you put it 
 
 ## Get in Touch
 
-📬 **Let's talk:** [Schedule a call](https://uphillsolutions.tech/contact-us/)  
+📬 **Let's talk:** [Schedule a Call](https://uphillsolutions.tech/contact-us/)  
 💌 **Email me directly:** robert.hill@uphillsolutions.tech  
