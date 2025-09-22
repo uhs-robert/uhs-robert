@@ -1,6 +1,8 @@
 # Robert | Software Engineer & Founder, UpHill Solutions 🤜🪨
-[![Github Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-❤️-blue?style=for-the-badge)](https://github.com/sponsors/uhs-robert) 
-[![Ko-fi](https://img.shields.io/badge/ko--fi-buy%20me%20a%20coffee-darkgreen?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/uphillsolutions)
+[![Github Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-❤️-steelblue?logo=github&style=for-the-badge)](https://github.com/sponsors/uhs-robert) 
+[![Ko-fi](https://img.shields.io/badge/ko--fi-buy%20me%20a%20coffee-darkolivegreen?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/uphillsolutions)
+[![Book a free session](https://img.shields.io/badge/📆%20Book%20a%20Session-Free%2030%20Minutes-indianred?style=for-the-badge)](https://uphillsolutions.tech/contact-us/)
+
 
 Founder of [UpHill Solutions](https://uphillsolutions.tech), I build tools to automate the boring and repetitive.
 
@@ -14,8 +16,8 @@ If my work has been helpful to you, consider sponsoring. It's the best way to su
 - 💼 **Occupation:** Software Engineer & Consultant
 - 🔭 **Currently working on:** Client projects (private repos), open-source contributions, and personal tooling
 - 🧠 **Talk to Me About:** Web development, backend architecture, automation, business automation, or anything tech  
-- 📫 **Reach me:** [Email](mailto:robert.hill@uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/) | [Website](https://uphillsolutions.tech) | [Contact Us](https://uphillsolutions.tech/contact-us/)
-- 🥾 **Fun Fact:** If I'm not online, then I'm probably out hiking or exploring with my wife and kid(s)
+- 📫 **Reach me:** [Schedule a Call](https://uphillsolutions.tech/contact-us/) | [Email](mailto:robert.hill@uphillsolutions.tech) | [Website](https://uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
+- 🥾 **Fun Fact:** If I'm not online, then I'm probably out hiking or exploring with my wife and kid
   
 ## Languages and Tools
 
@@ -66,21 +68,18 @@ If my work has been helpful to you, consider sponsoring. It's the best way to su
 
 
 ## Your Greek Tragedy Ends Here
+
 Sisyphus was cursed to roll a boulder up a hill for eternity. Sound familiar?
 
-The endless cycle of copying data, manually creating reports, or updating presentations... that's the modern business tragedy. You push that boulder up the hill every single week, only to find it waiting for you at the bottom again on Monday morning.
+Manually copying data, preparing reports, and resetting the same workflows over and over — only to do it again next week — is the modern workplace curse. At **UpHill Solutions**, we don’t just push the boulder. We build tools, automations, and systems so that when you get that boulder to the top, it stays there.
 
-At **UpHill Solutions**, we don't just help you push the boulder; we build the tools to break the cycle. Using smart **automation** and **web development**, we connect your systems, streamline your workflows, and give you back your time and sanity to focus on more meaningful work.
+We design automations, client portals, dashboards, and integrations that save time without creating new headaches. Our process is simple: learn how you work, strip out the friction, and leave you with a solution that quietly runs in the background. Our clients include nonprofits, startups, and creative teams who are ready to stop doing the same thing twice. 
 
-Let's find a permanent home for your boulder at the top of the hill.
+If you have a boulder you’re tired of rolling uphill, we’ll help you put it to rest for good.
 
-**[Book a free 30-minute strategy session](https://uphillsolutions.tech/contact-us/) to get started.**
+**[📆 Book a FREE 30-minute strategy session](https://uphillsolutions.tech/contact-us/)**
 
 ## Get in Touch
 
-- **Connect:** [Contact Us](https://uphillsolutions.tech/contact-us/)
-- **Email:** robert.hill@uphillsolutions.tech
-- **Website:** [UpHill Solutions](https://uphillsolutions.tech)
-- **LinkedIn:** [Robert Hill](https://www.linkedin.com/in/robert-hill-a6a189125/)
-
-⭐️ Thanks for making it all the way to the end.
+📬 **Let's talk:** [Schedule a call](https://uphillsolutions.tech/contact-us/)  
+💌 **Email me directly:** robert.hill@uphillsolutions.tech  
