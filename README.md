@@ -4,7 +4,7 @@
 [![Book a free session](https://img.shields.io/badge/📆%20Book%20a%20Session-Free%2030%20Minutes-indianred?style=for-the-badge)](https://uphillsolutions.tech/contact-us/)
 
 
-Founder of [UpHill Solutions](https://uphillsolutions.tech), I build tools to automate the boring and repetitive.
+Founder of [UpHill Solutions](https://uphillsolutions.tech), I build tools to automate away the boring and repetitive.
 
 My public repos are the home of my personal projects. They all follow the same recipe: _a dash of script, a heaping pile of Linux-first, and a quiet prayer to the Church of Vim_ 🙏
 
