@@ -85,7 +85,9 @@ We build `tools`, `automations`, `websites`, and `systems` that **simplify your 
 > 2. Meet you **where** you are to get you where you **want** to be
 > 3. Design **what** you need, **when** you need it
 
-Our clients include `nonprofits`, `startups`, and `creative teams` who are **ready to stop doing the same thing twice**. 
+Our clients include `nonprofits`, `startups`, and `creative teams` who are **ready to stop doing the same thing twice**.
+
+Your difficult problems are our fun puzzles to solve. Give us something challenging that we can play with!
 
 <!-- Contact Button !-->
 <p align="center">
