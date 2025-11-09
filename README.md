@@ -4,9 +4,11 @@
 [![Book a free session](https://img.shields.io/badge/📆%20Book%20a%20Session-Free%2030%20Minutes-indianred?style=for-the-badge)](https://uphillsolutions.tech/contact-us/)
 
 
-Founder of [UpHill Solutions](https://uphillsolutions.tech), every problem is an **opportunity** for me to **enjoy solving a puzzle**.
+Founder of [UpHill Solutions](https://uphillsolutions.tech), every problem is an **opportunity** for me to play, I **enjoy solving puzzles**.
 
-I **love overcoming challenges** and prefer the journey to the destination; I will save enjoying the destination **for you and my clients**. If anything that I have created has been helpful to you, _please consider sponsoring_. Your support is what helps me to keep my open source projects, **and my family**, alive.
+I **love overcoming challenges** and prefer the journey to the destination; coding is an especially fun journey for me. Every solution that I create is a destination **for you and my clients** to enjoy, but for me, the true joy comes from the creation process.
+
+If anything that I have created has been helpful to you, _consider sponsoring_. Your support helps me more emotionally than financially. To see someone take the time to pay their respects and to say "thank you" is heartwarming. That's what keeps my open source projects, **and my family**, alive.
 
 ## About Me
 
