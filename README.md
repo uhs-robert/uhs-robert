@@ -1,8 +1,8 @@
 # Robert | Software Engineer & Founder, UpHill Solutions 🤜🪨
-[![Github Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-❤️-steelblue?logo=github&style=for-the-badge)](https://github.com/sponsors/uhs-robert) 
-[![Ko-fi](https://img.shields.io/badge/ko--fi-buy%20me%20a%20coffee-darkolivegreen?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/uphillsolutions)
-[![Book a free session](https://img.shields.io/badge/📆%20Book%20a%20Session-Free%2030%20Minutes-indianred?style=for-the-badge)](https://uphillsolutions.tech/contact-us/)
 
+[![Book a free session](https://img.shields.io/badge/📆%20Book%20a%20Session-Free%2030%20Minutes-indianred?style=for-the-badge)](https://uphillsolutions.tech/contact-us/)
+[![Github Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-❤️-steelblue?logo=github&style=for-the-badge)](https://github.com/sponsors/uhs-robert)
+[![Ko-fi](https://img.shields.io/badge/ko--fi-buy%20me%20a%20coffee-darkolivegreen?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/uphillsolutions)
 
 Founder of [UpHill Solutions](https://uphillsolutions.tech), every problem is an **opportunity** for me to play, I **enjoy solving puzzles**.
 
@@ -15,10 +15,10 @@ If anything that I have created has been helpful to you, _consider sponsoring_. 
 - 🌍 **Location:** USA
 - 💼 **Occupation:** Software Engineer & Consultant
 - 🔭 **Currently working on:** Client projects (private repos), open-source contributions, and personal tooling
-- 🧠 **Talk to Me About:** Web development, backend architecture, automation, business automation, or anything tech  
+- 🧠 **Talk to Me About:** Web development, backend architecture, automation, business automation, or anything tech
 - 📫 **Reach me:** [Schedule a Call](https://uphillsolutions.tech/contact-us/) | [Email](mailto:robert.hill@uphillsolutions.tech) | [Website](https://uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
 - 🥾 **Fun Fact:** If I'm not online, then I'm probably out hiking or exploring with my family
-  
+
 ## Languages and Tools
 
 <p align="left">
@@ -61,7 +61,6 @@ If anything that I have created has been helpful to you, _consider sponsoring_. 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="35" height="35"/>
 </p>
 
-
 ## GitHub Stats
 
 <p align=center >
@@ -71,16 +70,16 @@ If anything that I have created has been helpful to you, _consider sponsoring_. 
   </a>
 </p>
 
-
 ## Why "UpHill Solutions"?
 
 Technology should be making things easier, but it often feels the other way around, like it's going downhill. **Why not go uphill?**
 
-Manually copying data and clicking 5-10 times through menu after menu — only to do it again next week — is a waste of your time. 
+Manually copying data and clicking 5-10 times through menu after menu — only to do it again next week — is a waste of your time.
 
 We build `tools`, `automations`, `websites`, and `systems` that **simplify your processes** and **make technology work for you**.
 
-> **Our process is simple:** 
+> **Our process is simple:**
+>
 > 1. Learn **how** you work and **why**
 > 2. Meet you **where** you are to get you where you **want** to be
 > 3. Design **what** you need, **when** you need it
@@ -99,4 +98,4 @@ Your difficult problems are our fun puzzles to solve. Give us something challeng
 ## Get in Touch
 
 📬 **Let's talk:** [Schedule a Call](https://uphillsolutions.tech/contact-us/)  
-💌 **Email me directly:** robert.hill@uphillsolutions.tech  
+💌 **Email me directly:** <robert.hill@uphillsolutions.tech>
