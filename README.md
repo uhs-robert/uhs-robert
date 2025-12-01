@@ -4,9 +4,9 @@
 [![Github Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-❤️-steelblue?logo=github&style=for-the-badge)](https://github.com/sponsors/uhs-robert)
 [![Ko-fi](https://img.shields.io/badge/ko--fi-buy%20me%20a%20coffee-darkolivegreen?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/uphillsolutions)
 
-Founder of [UpHill Solutions](https://uphillsolutions.tech). I **enjoy solving puzzles** and **overcoming challenges**; your problems are my **opportunity to play**.
+Founder of [UpHill Solutions](https://uphillsolutions.tech). I **enjoy solving puzzles**, **overcoming challenges**, and **making great software along the way**.
 
-For me, it's about the **journey, not the destination**. Coding is my favorite journey, and while every solution I create becomes a destination for you and my clients to enjoy, my true joy comes from the creation process itself.
+For me, it's all about the **journey, not the destination**. What can I say, I'm a hiker who just loves to climb. I savor the trails that we take on our way to the top more than the view once we get there. I want my clients to enjoy the view, while my eyes are fixed on the next mountain to climb. This is not only how I like to hike but also how I like to run my business. Every problem is an exciting adventure, a new mountain to experience and enjoy. It makes me happy to help get you to the top!
 
 If anything I've created has helped you, _consider sponsoring_. Your support means more to me emotionally than financially. Seeing someone take the time to say "thank you" is heartwarming. It's what keeps both my code and my kids running.
 
