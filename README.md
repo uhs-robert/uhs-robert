@@ -4,7 +4,7 @@
 [![Github Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-❤️-steelblue?logo=github&style=for-the-badge)](https://github.com/sponsors/uhs-robert)
 [![Ko-fi](https://img.shields.io/badge/ko--fi-buy%20me%20a%20coffee-darkolivegreen?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/uphillsolutions)
 
-Founder of [UpHill Solutions](https://uphillsolutions.tech). I **enjoy solving puzzles** and **overcoming challenges**, I view problems as an **opportunity to play**.
+Founder of [UpHill Solutions](https://uphillsolutions.tech). I **enjoy solving puzzles** and **overcoming challenges**; your problems are my **opportunity to play**.
 
 For me, it's about the **journey, not the destination**. Coding is my favorite journey, and while every solution I create becomes a destination for you and my clients to enjoy, my true joy comes from the creation process itself.
 
