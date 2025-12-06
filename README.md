@@ -98,4 +98,5 @@ Your uphill battles are our fun puzzles. Give us something challenging to play w
 ## Get in Touch
 
 📬 **Let's talk:** [Schedule a Call](https://uphillsolutions.tech/contact-us/)
+
 💌 **Email me directly:** <robert.hill@uphillsolutions.tech>
