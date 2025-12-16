@@ -6,9 +6,9 @@
 
 Founder of [UpHill Solutions](https://uphillsolutions.tech). I **enjoy solving puzzles**, **overcoming challenges**, and **making great software along the way**.
 
-For me, it's all about the **journey, not the destination**. What can I say, I'm a hiker who just loves to climb. I savor the trails that we take on our way to the top more than the view once we get there. I want my clients to enjoy the view, while my eyes are fixed on the next mountain to climb. This is not only how I like to hike but also how I like to run my business. Every problem is an exciting adventure, a new mountain to experience and enjoy. It makes me happy to help get you to the top!
+For me, it's all about the **journey, not the destination**. I'm a hiker who just loves to climb. I'd rather let my friends enjoy the view once we reach the top while I look for the next mountain to climb. This is not only how I like to hike but also how I like to run my business. Every problem is an exciting adventure, a new mountain to experience and enjoy. Helping my clients reach the top, too, is what I do best.
 
-If anything I've created has helped you, _consider sponsoring_. Your support means more to me emotionally than financially. Seeing someone take the time to say "thank you" is heartwarming. It's what keeps both my code and my kids running.
+If anything I've created has helped you, _please consider sponsoring_. Your contribution could be the thing that keeps both my code and my kids running.
 
 ## About Me
 
