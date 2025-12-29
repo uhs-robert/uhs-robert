@@ -6,7 +6,7 @@
 
 Founder of [UpHill Solutions](https://uphillsolutions.tech). I **enjoy solving puzzles**, **overcoming challenges**, and **making great software along the way**.
 
-For me, it's all about the **journey, not the destination**; I'm a hiker who just loves to climb. This is also how I like to run my business. Every problem is an exciting adventure, a new mountain to explore and enjoy. Helping my clients reach the top with me is what I do best.
+For me, it's all about the **journey, not the destination**; I'm a hiker who just loves to climb. This is also how I like to run my business. Every new problem is a mountain to explore and conquer. Helping my clients to reach the top is what I do best.
 
 If anything I've created has helped you, _please consider sponsoring_.
 > Your contribution could be the thing that keeps both my code and my kids running.
@@ -16,7 +16,7 @@ If anything I've created has helped you, _please consider sponsoring_.
 - 🌍 **Location:** USA
 - 💼 **Occupation:** Software Engineer & Consultant
 - 🔭 **Currently working on:** Client projects (private repos), open-source contributions, and personal tooling
-- 🧠 **Talk to Me About:** Web development, backend architecture, automation, business automation, or anything tech
+- 🧠 **Talk to Me About:** Web development, backend architecture, automation, business processes, or anything tech
 - 📫 **Reach me:** [Schedule a Call](https://uphillsolutions.tech/contact-us/) | [Email](mailto:robert.hill@uphillsolutions.tech) | [Website](https://uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
 - 🥾 **Fun Fact:** If I'm not online, I'm probably hiking uphill with my family (yes, we commit to the brand)
 
@@ -75,21 +75,21 @@ If anything I've created has helped you, _please consider sponsoring_.
 
 ## Why "UpHill Solutions"?
 
-Technology should be making things easier, but it often feels the other way around, like it's going downhill. **Why not go uphill?**
+Technology should be making things easier and working for you, but it often feels the other way around.
 
-Manually copying data and clicking 5-10 times through menu after menu — only to do it again next week — is a waste of your time.
+Manually copying data and clicking 5-10 times through menu after menu, only to do it again next week, is a waste of your time.
 
-We build **tools**, **automations**, **websites**, and **systems** that **simplify your processes** and **make technology work for you**.
+We build **tools**, **automations**, **websites**, and **systems** that **simplify your processes** and **eliminate busy/duplicative work**.
 
-> **Our process is simple:**
+> **Our process is straightforward:**
 >
-> 1. Learn **how** you work and **why**
+> 1. Learn **who** you are, **how** you work, and **why**
 > 2. Meet you **where** you are to get you where you **want** to be
 > 3. Design **what** you need, **when** you need it
 
 Our clients include **nonprofits**, **startups**, and **creative teams** who are **ready to stop doing the same thing twice**.
 
-Your uphill battles are our fun puzzles. Give us something challenging to play with!
+Your uphill battles are our mountains to climb. Give us a new challenge that we can enjoy!
 
 <!-- Contact Button !-->
 <p align="center">
