@@ -1,8 +1,15 @@
-# Robert | Software Engineer & Founder, UpHill Solutions 🤜🪨
+<!-- Banner -->
+<div align="center">
+  <img width="362" height="174" alt="UpHill Solutions Logo" src="https://github.com/user-attachments/assets/dfbc5bd0-0905-4f3b-907f-51bf054d65d6" />
+  <hr/>
+  <div>
+    <a href="https://uphillsolutions.tech/contact-us/"><img src="https://img.shields.io/badge/📆%20Book%20Session-Free%2030%20Minutes-76C4FD?colorA=192330&style=for-the-badge"></a>
+    <a href="https://github.com/sponsors/uhs-robert"><img src="https://img.shields.io/badge/Github-Sponsor-6DDFA0?colorA=192330&logo=github&style=for-the-badge"></a>
+    <a href="https://ko-fi.com/uphillsolutions"><img src="https://img.shields.io/badge/Kofi-buy%20me%20a%20coffee-blue?colorA=192330&colorB=FFBA80&logo=kofi&style=for-the-badge"></a>
+  </div>
+</div>
 
-[![Book a free session](https://img.shields.io/badge/📆%20Book%20a%20Session-Free%2030%20Minutes-indianred?style=for-the-badge)](https://uphillsolutions.tech/contact-us/)
-[![Github Sponsor](https://img.shields.io/badge/GitHub%20Sponsor-❤️-steelblue?logo=github&style=for-the-badge)](https://github.com/sponsors/uhs-robert)
-[![Ko-fi](https://img.shields.io/badge/ko--fi-buy%20me%20a%20coffee-darkolivegreen?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/uphillsolutions)
+# 👨‍💻 Robert | Software Engineer
 
 Founder of [UpHill Solutions](https://uphillsolutions.tech). I **enjoy solving puzzles**, **overcoming challenges**, and **making great software along the way**.
 
@@ -11,16 +18,16 @@ For me, it's all about the **journey, not the destination**; I'm a hiker who jus
 If anything I've created has helped you, _please consider sponsoring_.
 > Your contribution could be the thing that keeps both my code and my kids running.
 
-## About Me
+##  About Me
 
 - 🌍 **Location:** USA
 - 💼 **Occupation:** Software Engineer & Consultant
 - 🔭 **Currently working on:** Client projects (private repos), open-source contributions, and personal tooling
 - 🧠 **Talk to Me About:** Web development, backend architecture, automation, business processes, or anything tech
-- 📫 **Reach me:** [Schedule a Call](https://uphillsolutions.tech/contact-us/) | [Email](mailto:robert.hill@uphillsolutions.tech) | [Website](https://uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
 - 🥾 **Fun Fact:** If I'm not online, I'm probably hiking uphill with my family (yes, we commit to the brand)
+- 📫 **Reach me:** [Schedule a Call](https://uphillsolutions.tech/contact-us/) | [Email](mailto:robert.hill@uphillsolutions.tech) | [Website](https://uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
 
-## Languages and Tools
+## 🧰 Languages and Tools
 
 <p align="left">
   <!-- Core Languages -->
@@ -64,7 +71,7 @@ If anything I've created has helped you, _please consider sponsoring_.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="35" height="35"/>
 </p>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align=center >
   <a href="https://github.com/uhs-robert?tab=repositories&q=&type=&language=&sort=stargazers">
@@ -73,7 +80,7 @@ If anything I've created has helped you, _please consider sponsoring_.
   </a>
 </p>
 
-## Why "UpHill Solutions"?
+## 🧗Why "UpHill Solutions"?
 
 Technology should be making things easier and working for you, but it often feels the other way around.
 
@@ -98,8 +105,8 @@ Your uphill battles are our mountains to climb. Give us a new challenge that we 
   </a>
 </p>
 
-## Get in Touch
+## 🤝 Get in Touch
 
 📬 **Let's talk:** [Schedule a Call](https://uphillsolutions.tech/contact-us/)
 
-💌 **Email me directly:** <robert.hill@uphillsolutions.tech>
+💌 **Or send me an email:** <robert.hill@uphillsolutions.tech>
