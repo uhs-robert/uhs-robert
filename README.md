@@ -67,7 +67,7 @@ If anything I've created has helped you, _please consider sponsoring_.
 ## GitHub Stats
 
 <p align=center >
-  <a href="https://github.com/uhs-robert">
+  <a href="https://github.com/uhs-robert?tab=repositories&q=&type=&language=&sort=stargazers">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uhs-robert&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uhs-robert&layout=compact&langs_count=8&theme=ayu-mirage&count_private=true"/>
   </a>
