@@ -18,7 +18,7 @@ For me, it's all about the **journey, not the destination**; I'm a hiker who jus
 If anything I've created has helped you, _please consider sponsoring_.
 > Your contribution could be the thing that keeps both my code and my kids running.
 
-##  About Me
+## About Me
 
 - 🌍 **Location:** USA
 - 💼 **Occupation:** Software Engineer & Consultant
@@ -27,7 +27,7 @@ If anything I've created has helped you, _please consider sponsoring_.
 - 🥾 **Fun Fact:** If I'm not online, I'm probably hiking uphill with my family (yes, we commit to the brand)
 - 📫 **Reach me:** [Schedule a Call](https://uphillsolutions.tech/contact-us/) | [Email](mailto:robert.hill@uphillsolutions.tech) | [Website](https://uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
 
-## 🧰 Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <!-- Core Languages -->
@@ -71,7 +71,7 @@ If anything I've created has helped you, _please consider sponsoring_.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="35" height="35"/>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align=center >
   <a href="https://github.com/uhs-robert?tab=repositories&q=&type=&language=&sort=stargazers">
@@ -98,14 +98,7 @@ Our clients include **nonprofits**, **startups**, and **creative teams** who are
 
 Your uphill battles are our mountains to climb. Give us a new challenge that we can enjoy!
 
-<!-- Contact Button !-->
-<p align="center">
-  <a href="https://uphillsolutions.tech/contact-us/">
-    <img src="https://img.shields.io/badge/📆%20Book%20a%20Session-Free%2030%20Minutes-blue?style=for-the-badge"></img>
-  </a>
-</p>
-
-## 🤝 Get in Touch
+### 🤝 Get in Touch
 
 📬 **Let's talk:** [Schedule a Call](https://uphillsolutions.tech/contact-us/)
 
