@@ -43,7 +43,7 @@ I build internal tools, client portals, and workflow automations focused on reli
 <h3 align="right">Powered by...</h3>
 <div align="right">
   <a href="https://uphillsolutions.tech/">
-    <img src="https://skillicons.dev/icons?i=linux,arch,debian,docker,gcp,vim,neovim,ai,less" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,debian,docker,gcp,aws,azure,vim,neovim,ai,less" />
   </a>
 </div>
 
