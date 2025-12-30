@@ -59,7 +59,7 @@ I build websites, portals, automation workflows, and internal tools to replace m
 
 ## 🛟 Support Open Source
 
-If my projects save you time, please consider supporting maintenance and new features.
+If my projects save you time, consider offering your financial support for maintenance and new features.
 
 <div>
   <a href="https://github.com/sponsors/uhs-robert"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-6DDFA0?style=for-the-badge&labelColor=192330&logo=githubsponsors&logoColor=white" /></a>
