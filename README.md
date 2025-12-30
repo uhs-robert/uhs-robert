@@ -85,6 +85,6 @@ If my projects save you time, consider offering your support for maintenance and
 <hr>
 <div align=center>
   <p><em>The climb to the top continues below</em></p>
-  <a href="https://github.com/uhs-robert#home"><img src="https://komarev.com/ghpvc/?username=uhs-robert&label=Profile%20Views&color=1670AD&colorA=192330&base=3937&style=for-the-badge"></a>
+  <a href="https://github.com/uhs-robert?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://komarev.com/ghpvc/?username=uhs-robert&label=Profile%20Views&color=1670AD&colorA=192330&base=3937&style=for-the-badge"></a>
     <!-- <a href="https://github.com/uhs-robert#home"><img src="https://komarev.com/ghpvc/?username=uhs-robert&label=Profile%20Views&color=1670AD&colorA=192330&base=3937&abbreviated=true&style=for-the-badge"></a> -->
 </div>
