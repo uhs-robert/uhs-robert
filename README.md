@@ -10,12 +10,12 @@
 </div>
 <br>
 <p align="center">
-  Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>, we help teams climb out of operational chaos with practical automation and maintainable software.
+  Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>, helping teams climb out of operational chaos with practical automation and maintainable software.
 </p>
 
 # 👨‍💻 Robert | Software Engineer & Consultant
 
-I build websites, portals, internal tools, and automation workflows that replace manual processes with systems teams can trust.
+I build websites, portals, automation workflows, and internal tools to replace manual processes with systems that teams can trust.
 
 ## 💼 About Me
 
@@ -68,15 +68,15 @@ If my projects save you time, please consider supporting maintenance and new fea
 
 ## 🧗Why "UpHill Solutions"?
 
-Technology should be making things easier and working for you, but it often feels the other way around.
+Technology should be making things easier by working for you, but it often feels the other way around.
 
 Manually copying data and clicking 5-10 times through menu after menu, only to do it again next week, is a waste of your time.
 
-We build **tools**, **automations**, **websites**, and **systems** that **simplify your processes** and **eliminate busy/duplicative work**.
+We build **systems** that **simplify your processes** and **eliminate busy/duplicative work**.
 
 > **Our process is straightforward:**
 >
-> 1. Learn **who** you are, **how** you work, and **why**
+> 1. Learn  **who** you are, **how** you work, and **why** it matters 
 > 2. Meet you **where** you are to get you where you **want** to be
 > 3. Design **what** you need, **when** you need it
 
@@ -94,6 +94,7 @@ Your uphill battles are our mountains to climb. Give us a new challenge that we 
 
 <br/>
 <div align=center>
-  <a href="https://github.com/uhs-robert#home"><img src="https://komarev.com/ghpvc/?username=uhs-robert&label=Profile%20Views&color=1670AD&colorA=192330&base=3937&abbreviated=true&style=for-the-badge"></a>
+  <a href="https://github.com/uhs-robert#home"><img src="https://komarev.com/ghpvc/?username=uhs-robert&label=Profile%20Views&color=1670AD&colorA=192330&base=3937&style=for-the-badge"></a>
+    <!-- <a href="https://github.com/uhs-robert#home"><img src="https://komarev.com/ghpvc/?username=uhs-robert&label=Profile%20Views&color=1670AD&colorA=192330&base=3937&abbreviated=true&style=for-the-badge"></a> -->
 </div>
 
