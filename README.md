@@ -21,7 +21,7 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>, helping 
 - 🔭 **Currently working on:** Client projects, open-source contributions, and personal tooling
 - 🧠 **Talk to Me About:** Business processes, automation, web development, backend architecture, or anything tech
 - 🥾 **Fun Fact:** If I'm not online, I'm probably hiking uphill with my family (yes, we commit to the brand)
-- 📫 **Reach me:** [Schedule Free Call](https://uphillsolutions.tech/contact-us/) | [Email](mailto:robert.hill@uphillsolutions.tech) | [Website](https://uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
+- 📫 **Reach me:** [Schedule Free Call](https://uphillsolutions.tech/contact-us/) | [Website](https://uphillsolutions.tech) | [Email](mailto:robert.hill@uphillsolutions.tech) |  [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
 
 ## 🧰 Languages and Tools
 
@@ -35,14 +35,14 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>, helping 
 <h3 align="center">Shipping on...</h3>
 <div align="center">
   <a href="https://uphillsolutions.tech/">
-    <img src="https://skillicons.dev/icons?i=astro,htmx,react,nextjs,rails,firebase,postgres,git,github,nginx,svg,tailwind" />
+    <img src="https://skillicons.dev/icons?i=astro,react,nextjs,htmx,tailwind,rails,postgres,mysql,firebase,git,github,githubactions" />
   </a>
 </div>
 
 <h3 align="right">Powered by...</h3>
 <div align="right">
   <a href="https://uphillsolutions.tech/">
-    <img src="https://skillicons.dev/icons?i=linux,arch,debian,docker,gcp,aws,azure,vim,neovim,ai,less" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,debian,redhat,docker,kubernetes,gcp,aws,azure,vim,neovim,ai" />
   </a>
 </div>
 
@@ -54,11 +54,9 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>, helping 
 
 ## 🧗Why UpHill Solutions?
 
-Technology should be making things easier, but it often feels the other way around.
+Technology should make work easier, but too often teams are stuck copying data and clicking through menus instead.
 
-Manually copying data and clicking through menu after menu, only to do it again next week, is a waste of your time.
-
-We build **systems** that **simplify your processes** and **eliminate busy/duplicative work**.
+We build **systems** that **simplify your processes** and **eliminate busy work**.
 
 > **Our process is straightforward:**
 >
@@ -66,15 +64,15 @@ We build **systems** that **simplify your processes** and **eliminate busy/dupli
 > 2. Meet you **where** you are to get you where you **want** to be
 > 3. Design **what** you need, **when** you need it
 
-Our clients include **nonprofits**, **startups**, and **big businesses** who are **ready to stop doing the same thing twice**.
+Our clients include **nonprofits**, **startups**, and **enterprise teams** who are **ready to stop doing the same thing twice**.
 
-Your uphill battles are our mountains to climb; let us give you a hand and a seat at the top.
+Your uphill battles are our mountains to climb. Let’s get you to the top.
 
 ## 🤝 Get in Touch
 
-📬 **Let's talk:** [Schedule a Call](https://uphillsolutions.tech/contact-us/)
+☎️ **Let's talk:** [Schedule a call now](https://uphillsolutions.tech/contact-us/)
 
-💌 **Or send me an email:** <robert.hill@uphillsolutions.tech>
+📬 **Or send an email:** <robert.hill@uphillsolutions.tech>
 
 ## 🛟 Support Open Source
 
@@ -86,7 +84,7 @@ If my projects save you time, consider offering your support for maintenance and
 </div>
 <hr>
 <div align=center>
-  <p><em>The climb continues below</em></p>
+  <p><em>The climb to the top continues below</em></p>
   <a href="https://github.com/uhs-robert#home"><img src="https://komarev.com/ghpvc/?username=uhs-robert&label=Profile%20Views&color=1670AD&colorA=192330&base=3937&style=for-the-badge"></a>
     <!-- <a href="https://github.com/uhs-robert#home"><img src="https://komarev.com/ghpvc/?username=uhs-robert&label=Profile%20Views&color=1670AD&colorA=192330&base=3937&abbreviated=true&style=for-the-badge"></a> -->
 </div>
