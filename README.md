@@ -1,5 +1,5 @@
 <!-- Banner -->
-<a id="readme-top"></a>
+<a id="home"></a>
 <div align="center">
   <img width="362" height="174" alt="UpHill Solutions Logo" src="https://github.com/user-attachments/assets/dfbc5bd0-0905-4f3b-907f-51bf054d65d6" />
   <hr/>
@@ -94,6 +94,6 @@ Your uphill battles are our mountains to climb. Give us a new challenge that we 
 
 <br/>
 <div align=center>
-  <a href="https://github.com/uhs-robert#readme-top"><img src="https://komarev.com/ghpvc/?username=uhs-robert&label=Profile%20Views&color=1670AD&colorA=192330&base=3937&style=for-the-badge"></a>
+  <a href="https://github.com/uhs-robert#home"><img src="https://komarev.com/ghpvc/?username=uhs-robert&label=Profile%20Views&color=1670AD&colorA=192330&base=3937&style=for-the-badge"></a>
 </div>
 
