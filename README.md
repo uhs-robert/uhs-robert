@@ -94,6 +94,6 @@ Your uphill battles are our mountains to climb. Give us a new challenge that we 
 
 <br/>
 <div align=center>
-  <a href="https://github.com/uhs-robert#home"><img src="https://komarev.com/ghpvc/?username=uhs-robert&label=Profile%20Views&color=1670AD&colorA=192330&base=3937&style=for-the-badge"></a>
+  <a href="https://github.com/uhs-robert#home"><img src="https://komarev.com/ghpvc/?username=uhs-robert&label=Profile%20Views&color=1670AD&colorA=192330&base=3937&abbreviated=true&style=for-the-badge"></a>
 </div>
 
