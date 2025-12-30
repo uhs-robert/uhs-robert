@@ -3,82 +3,67 @@
   <img width="362" height="174" alt="UpHill Solutions Logo" src="https://github.com/user-attachments/assets/dfbc5bd0-0905-4f3b-907f-51bf054d65d6" />
   <hr/>
   <div>
-    <a href="https://uphillsolutions.tech/contact-us/"><img src="https://img.shields.io/badge/📆%20Book%20Session-Free%2030%20Minutes-76C4FD?colorA=192330&style=for-the-badge"></a>
-    <a href="https://github.com/sponsors/uhs-robert"><img src="https://img.shields.io/badge/Github-Sponsor-6DDFA0?colorA=192330&logo=github&style=for-the-badge"></a>
-    <a href="https://ko-fi.com/uphillsolutions"><img src="https://img.shields.io/badge/Kofi-buy%20me%20a%20coffee-blue?colorA=192330&colorB=FFBA80&logo=kofi&style=for-the-badge"></a>
+    <a href="https://uphillsolutions.tech/contact-us/"><img src="https://img.shields.io/badge/📆%20Book%20Session-Free%2030%20Minutes-76C4FD?style=for-the-badge&labelColor=192330" /></a>
+    <a href="https://uphillsolutions.tech"><img src="https://img.shields.io/badge/Website-uphillsolutions.tech-FFBA80?style=for-the-badge&labelColor=192330&logo=googlechrome&logoColor=white" /></a>
   </div>
 </div>
-
-# 👨‍💻 Robert | Software Engineer
-
-Founder of [UpHill Solutions](https://uphillsolutions.tech). I **enjoy solving puzzles**, **overcoming challenges**, and **making great software along the way**.
-
-For me, it's all about the **journey, not the destination**; I'm a hiker who just loves to climb. This is also how I like to run my business. Every new problem is a mountain to explore and conquer. Helping my clients to reach the top is what I do best.
-
-If anything I've created has helped you, _please consider sponsoring_.
-> Your contribution could be the thing that keeps both my code and my kids running.
-
-## About Me
-
-- 🌍 **Location:** USA
-- 💼 **Occupation:** Software Engineer & Consultant
-- 🔭 **Currently working on:** Client projects (private repos), open-source contributions, and personal tooling
-- 🧠 **Talk to Me About:** Web development, backend architecture, automation, business processes, or anything tech
-- 🥾 **Fun Fact:** If I'm not online, I'm probably hiking uphill with my family (yes, we commit to the brand)
-- 📫 **Reach me:** [Schedule a Call](https://uphillsolutions.tech/contact-us/) | [Email](mailto:robert.hill@uphillsolutions.tech) | [Website](https://uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
-
-## Languages and Tools
-
-<p align="left">
-  <!-- Core Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell" width="35" height="35"/>
-
-  <!-- Web & Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg" alt="RubyRails" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original.svg" alt="Hugo" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Nextjs" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original-wordmark.svg" alt="pnpm" width="35" height="35"/>
-
-  <!-- Development Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg" alt="SSH" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tmux/tmux-plain-wordmark.svg" alt="Tmux" width="35" height="35"/>
-
-  <!-- Editors -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="Neovim" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="35" height="35"/>
-
-  <!-- Operating Systems -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="ArchLinux" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="Fedora" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="35" height="35"/>
+<br>
+<p align="center">
+  Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>, we help teams climb out of operational chaos with practical automation and maintainable software.
 </p>
 
-## GitHub Stats
+# 👨‍💻 Robert | Software Engineer & Consultant
 
-<p align=center >
+I build internal tools, client portals, and workflow automations. Focused on reliability, maintainability, and measurable time savings.
+
+## 💼 About Me
+
+- 🌍 **Location:** USA | Global Remote
+- 🔭 **Currently working on:** Client projects, open-source contributions, and personal tooling
+- 🧠 **Talk to Me About:** Business processes, automation, web development, backend architecture, or anything tech
+- 🥾 **Fun Fact:** If I'm not online, I'm probably hiking uphill with my family (yes, we commit to the brand)
+- 📫 **Reach me:** [Schedule Free Call](https://uphillsolutions.tech/contact-us/) | [Email](mailto:robert.hill@uphillsolutions.tech) | [Website](https://uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
+
+## 🧰 Languages and Tools
+
+<h3 align="left">Fluent in...</h3>
+<div align="left">
+  <a href="https://uphillsolutions.tech/">
+    <img src="https://skillicons.dev/icons?i=js,ts,css,html,ruby,go,lua,rust,py,php,bash,regex,md" />
+  </a>
+</div>
+
+<h3 align="center">Shipping on...</h3>
+<div align="center">
+  <a href="https://uphillsolutions.tech/">
+    <img src="https://skillicons.dev/icons?i=astro,htmx,react,nextjs,rails,firebase,postgres,git,github,nginx,svg,tailwind" />
+  </a>
+</div>
+
+<h3 align="right">Powered by...</h3>
+<div align="right">
+  <a href="https://uphillsolutions.tech/">
+    <img src="https://skillicons.dev/icons?i=linux,arch,debian,docker,gcp,vim,neovim,ai,less" />
+  </a>
+</div>
+
+## 📊 GitHub Stats
+  
+<p align=left >
   <a href="https://github.com/uhs-robert?tab=repositories&q=&type=&language=&sort=stargazers">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uhs-robert&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uhs-robert&layout=compact&langs_count=8&theme=ayu-mirage&count_private=true"/>
   </a>
 </p>
+
+## 🛟 Support Open Source
+
+If my projects save you time, please consider supporting maintenance and new features.
+
+<div>
+  <a href="https://github.com/sponsors/uhs-robert"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-6DDFA0?style=for-the-badge&labelColor=192330&logo=githubsponsors&logoColor=white" /></a>
+  <a href="https://ko-fi.com/uphillsolutions"><img src="https://img.shields.io/badge/Kofi-Buy%20me%20a%20coffee-FFA0A0?style=for-the-badge&labelColor=192330&logo=kofi&logoColor=white" /></a>
+</div>
 
 ## 🧗Why "UpHill Solutions"?
 
@@ -98,8 +83,16 @@ Our clients include **nonprofits**, **startups**, and **creative teams** who are
 
 Your uphill battles are our mountains to climb. Give us a new challenge that we can enjoy!
 
-### 🤝 Get in Touch
+## 🤝 Get in Touch
 
 📬 **Let's talk:** [Schedule a Call](https://uphillsolutions.tech/contact-us/)
 
 💌 **Or send me an email:** <robert.hill@uphillsolutions.tech>
+
+
+
+<br/>
+<div align=center>
+  <a href="https://ko-fi.com/uphillsolutions"><img src="https://komarev.com/ghpvc/?username=uhs-robert&label=Profile%20Views&color=1670AD&colorA=192330&base=3937&style=for-the-badge"></a>
+</div>
+
