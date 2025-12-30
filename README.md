@@ -14,7 +14,7 @@
 
 # 👨‍💻 Robert | Software Engineer & Consultant
 
-I build internal tools, client portals, and workflow automations focused on reliability, maintainability, and time savings.
+I build websites, portals, internal tools, and automation workflows that replace manual processes with systems teams can trust.
 
 ## 💼 About Me
 
