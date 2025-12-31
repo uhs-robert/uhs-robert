@@ -21,7 +21,7 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>, helping 
 - 🔭 **Currently working on:** Client projects, open-source contributions, and personal tooling
 - 🧠 **Talk to Me About:** Business processes, automation, web development, backend architecture, or anything tech
 - 🥾 **Fun Fact:** If I'm not online, I'm probably hiking uphill with my family (yes, we commit to the brand)
-- 📫 **Reach me:** [Schedule Free Call](https://uphillsolutions.tech/contact-us/) | [Website](https://uphillsolutions.tech) | [Email](mailto:robert.hill@uphillsolutions.tech) |  [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
+- 📫 **Reach me:** [Schedule Free Consult](https://uphillsolutions.tech/contact-us/) | [Website](https://uphillsolutions.tech) | [Email](mailto:robert.hill@uphillsolutions.tech) |  [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
 
 ## 🧰 Languages and Tools
 
