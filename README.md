@@ -66,7 +66,7 @@ We build **systems** that **simplify your processes** and **eliminate busy work*
 
 Our clients include **nonprofits**, **startups**, and **enterprise teams** who are **ready to stop doing the same thing twice**.
 
-Your uphill battles are our mountains to climb. Let’s get you to the top.
+Your uphill battles are our mountains to climb. Let’s get you to the top!
 
 ## 🤝 Get in Touch
 
