@@ -19,8 +19,8 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>, helping 
 
 - 🌍 **Location:** USA | Global Remote
 - 🔭 **Currently working on:** Client projects, open-source contributions, and personal tooling
-- 🧠 **Talk to Me About:** Business processes, automation, web development, backend architecture, or anything tech
-- 🥾 **Fun Fact:** If I'm not online, I'm probably hiking uphill with my family (yes, we commit to the brand)
+- 🧠 **Talk to Me About:** Business processes, automation, web development, backend architecture, or your current processes
+- 🥾 **Fun Fact:** If I'm not online then I'm probably hiking uphill with my family (commitment to the brand)
 - 📫 **Reach me:** [Schedule Free Consult](https://uphillsolutions.tech/contact-us/) | [Website](https://uphillsolutions.tech) | [Email](mailto:robert.hill@uphillsolutions.tech) |  [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
 
 ## 🧰 Languages and Tools
@@ -54,19 +54,19 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>, helping 
 
 ## 🧗Why UpHill Solutions?
 
-Technology should make work easier, but too often teams are stuck copying data and clicking through menus instead.
+Technology should make work easier, not tedious or repetitive with manual data entry across systems that don't connect.
 
-We build **systems** that **simplify your processes** and **eliminate busy work**.
+We build **systems** that **simplify your processes** and **eliminate busy work** so you can focus on what really matters.
 
 > **Our process is straightforward:**
 >
-> 1. Learn  **who** you are, **how** you work, and **why** it matters 
-> 2. Meet you **where** you are to get you where you **want** to be
-> 3. Design **what** you need, **when** you need it
+> 1. Understand  **who** you are, **how** you work, and **where** your friction is 
+> 2. Map out the climb to get you where you **want** to be
+> 3. Build **what** you need, ready **when** you need it and desiged to last
 
-Our clients include **nonprofits**, **startups**, and **enterprise teams** who are **ready to stop doing the same thing twice**.
+We work with **nonprofits**, **startups**, and **enterprise teams** that are ready to stop doing the same work twice.
 
-Your uphill battles are our mountains to climb. Let’s get you to the top!
+Your uphill battles are our terrain. Let’s build the path forward.
 
 ## 🤝 Get in Touch
 
@@ -76,7 +76,7 @@ Your uphill battles are our mountains to climb. Let’s get you to the top!
 
 ## 🛟 Support Open Source
 
-If my projects save you time, consider offering your support for maintenance and new features.
+If my projects save you time or make you smile, consider offering your support for maintenance and new features.
 
 <div>
   <a href="https://github.com/sponsors/uhs-robert"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-6DDFA0?style=for-the-badge&labelColor=192330&logo=githubsponsors&logoColor=white" /></a>
