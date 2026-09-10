@@ -51,7 +51,7 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>, helping 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/uhs-robert?tab=repositories&q=&type=&language=&sort=stargazers"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uhs-robert&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uhs-robert&layout=compact&langs_count=8&theme=ayu-mirage&count_private=true"/></a>
+  <a href="https://github.com/uhs-robert?tab=repositories&q=&type=&language=&sort=stargazers"><img height="180em" alt="GitHub stats" src="./profile/stats.svg"/><img height="180em" alt="Most used languages" src="./profile/top-langs.svg"/></a>
 </p>
 
 ## 🧗Why UpHill Solutions?
