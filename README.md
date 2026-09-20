@@ -8,7 +8,7 @@
   </a>
   <hr/>
   <div>
-    <a href="https://uphillsolutions.tech/contact-us/"><img alt="Book a free 30 minute session" src="https://img.shields.io/badge/📆%20Book%20Session-Free%2030%20Minutes-76C4FD?style=for-the-badge&labelColor=192330" /></a>
+    <a href="https://uphillsolutions.tech/contact/"><img alt="Book a free 30 minute session" src="https://img.shields.io/badge/📆%20Book%20Session-Free%2030%20Minutes-76C4FD?style=for-the-badge&labelColor=192330" /></a>
     <a href="https://uphillsolutions.tech"><img alt="Website: uphillsolutions.tech" src="https://img.shields.io/badge/Website-uphillsolutions.tech-FFBA80?style=for-the-badge&labelColor=192330&logo=googlechrome&logoColor=white" /></a>
   </div>
 </div>
@@ -23,7 +23,7 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>, helping 
 - 🔭 **Currently working on:** Client projects, open-source contributions, and personal tooling
 - 🧠 **Talk to Me About:** Business processes, automation, web development, backend architecture, or your current processes
 - 🥾 **Fun Fact:** If I'm not online then I'm probably hiking uphill with my family (commitment to the brand)
-- 📫 **Reach me:** [Schedule Free Consult](https://uphillsolutions.tech/contact-us/) | [Website](https://uphillsolutions.tech) | [Email](mailto:robert.hill@uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
+- 📫 **Reach me:** [Schedule Free Consult](https://uphillsolutions.tech/contact/) | [Website](https://uphillsolutions.tech) | [Email](mailto:robert.hill@uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
 
 ## 🧰 Languages and Tools
 
@@ -72,7 +72,7 @@ Your uphill battles are our terrain. Let’s build the path forward.
 
 ## 🤝 Get in Touch
 
-☎️ **Let's talk:** [Schedule a call now](https://uphillsolutions.tech/contact-us/)
+☎️ **Let's talk:** [Schedule a call now](https://uphillsolutions.tech/contact/)
 
 📬 **Or send an email:** <robert.hill@uphillsolutions.tech>
 
