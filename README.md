@@ -15,13 +15,13 @@
 
 # 👨‍💻 Robert | Software Engineer & Consultant
 
-Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>, helping teams climb out of operational chaos with practical automation and maintainable software.
+Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>: I eliminate busy work with custom software, automation, and AI based solutions.
 
 ## 💼 About Me
 
 - 🌍 **Location:** USA | Global Remote
-- 🔭 **Currently working on:** Client projects, open-source contributions, and personal tooling
-- 🧠 **Talk to Me About:** Business processes, automation, web development, backend architecture, or your current processes
+- 🔭 **Currently working on:** Client projects, open-source contributions, and my own personal tools
+- 🧠 **Talk to Me About:** Business processes, automation, web development, your business' headaches, or your current processes
 - 🥾 **Fun Fact:** If I'm not online then I'm probably hiking uphill with my family (commitment to the brand)
 - 📫 **Reach me:** [Schedule Free Consult](https://uphillsolutions.tech/contact/) | [Website](https://uphillsolutions.tech) | [Email](mailto:robert.hill@uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
 
@@ -56,19 +56,23 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>, helping 
 
 ## 🧗Why UpHill Solutions?
 
-Technology should make work easier, not tedious or repetitive with manual data entry across systems that don't connect.
+I love Greek Mythology, especially the Myth of Sisyphus: a man cursed to push a boulder up a hill, daily, for all eternity.
 
-We build **systems** that **simplify your processes** and **eliminate busy work** so you can focus on what really matters.
+We all have a boulder to push and mine was `CTRL+C` and `CTRL+V`. Doing the same thing over and over again.
 
-> **Our process is straightforward:**
+Over time, I learned to automate/integrate systems so my boulder keeps getting smaller and smaller everyday.
+
+I build **systems** that **simplify processes** and **eliminate busy work** so we can all focus on what really matters.
+
+> **My process is straightforward:**
 >
-> 1. Understand **who** you are, **how** you work, and **where** your friction is
-> 2. Map out the climb to get you where you **want** to be
-> 3. Build **what** you need, ready **when** you need it and desiged to last
+> 1. I want to understand **who** you are, **how** you work, and **where** your friction is
+> 2. Then we'll map out the course to get you where you **want** to be
+> 3. And build **what** you need, ready **when** you need it
 
-We work with **nonprofits**, **startups**, and **enterprise teams** that are ready to stop doing the same work twice.
+I work with **nonprofits**, **startups**, and **enterprise teams** that are ready to stop doing the same work twice.
 
-Your uphill battles are our terrain. Let’s build the path forward.
+Your uphill battles are my terrain, let’s find a way to simplify your work together.
 
 ## 🤝 Get in Touch
 
@@ -78,7 +82,7 @@ Your uphill battles are our terrain. Let’s build the path forward.
 
 ## 🛟 Support Open Source
 
-If my projects save you time or make you smile, consider offering your support for maintenance and new features.
+If my projects save you time or help you in anyway, consider offering your support for maintenance and new features.
 
 <div>
   <a href="https://github.com/sponsors/uhs-robert"><img alt="Sponsor on GitHub Sponsors" src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-6DDFA0?style=for-the-badge&labelColor=192330&logo=githubsponsors&logoColor=white" /></a>
