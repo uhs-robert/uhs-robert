@@ -29,7 +29,7 @@ A few things I've built:
 - A 10-second page load cut to 2 seconds, without a rewrite.
 - A bot attack on a public signup form, shut down within days without locking out a single real user.
 
-Some of it runs on Knack, some on Ruby, Node or Google Apps Script.
+Depending on the job, I work in Knack, Ruby, Node, Go, Rust or Google Apps Script.
 
 [Read the case studies](https://uphillsolutions.tech/work/?utm_source=github&utm_medium=profile&utm_content=recent_work) or [book a free 30-minute call](https://uphillsolutions.tech/contact/?utm_source=github&utm_medium=profile&utm_content=recent_work).
 
