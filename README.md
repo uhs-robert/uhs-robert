@@ -13,30 +13,39 @@
   </div>
 </div>
 
-# 👨‍💻 Robert | Browser Extensions & AI Automation
+# 👨‍💻 Robert | Custom Software for Small Organizations
 
-I build browser extensions and AI automations that work inside the tools your team already uses. No new app to learn, no copy and paste between tabs.
+**Your team does the same work twice. I build the software that stops it.**
+
+Custom apps, integrations and automation, in any stack, shipped in weeks. Built so your team can change it safely with AI. I step in when it gets hard.
 
 Founder of <a href="https://uphillsolutions.tech/?utm_source=github&utm_medium=profile&utm_content=intro">UpHill Solutions</a>. Based in the USA, working with teams everywhere.
 
 ## 🛠️ What I Build
 
-- 🧩 **Browser extensions.** Add the button your web app is missing, fill forms, pull data between sites, or drive a workflow from the keyboard.
-- 📬 **Mail and inbox automation.** Sort, tag, draft and file mail in Thunderbird and the web. AI writes the draft. A person sends it.
-- 🤖 **AI that uses your tools.** Agents that read pages and mail and take real steps in the apps you already pay for, with a human approving each change.
-- ⚙️ **Glue between systems.** Scripts and small services that move data between your CRM, spreadsheets, mail and web apps, so nobody retypes it.
+- 🗂️ **Custom apps and portals** that replace the spreadsheet or the off-the-shelf tool that never quite fit.
+- 🔌 **Integrations** that connect HR, payments, SMS, mail and your database, so nobody retypes data.
+- ⏱️ **Automation** that runs on its own: scheduled jobs, webhooks, backups and reports.
+- 🤖 **AI with a human in the loop.** AI sorts, drafts and flags. A person decides.
+- 🧱 **Knack, extended.** Custom code, integrations and servers for Knack apps that outgrew the builder.
 
-👉 [Book a free 30 minute call](https://uphillsolutions.tech/contact/?utm_source=github&utm_medium=profile&utm_content=what_i_build) and bring the task your team hates most.
+## 🧭 Recent Work
 
-## 🌵 The Proof Is Open Source
+- A court-grade communication platform: AI triage that speeds up human moderators, and transcripts ready for court.
+- A senior living community: a residents' platform and a real-time employee sync from UKG.
+- Behind both: payment and SMS integrations, backup and restore, and incident response.
 
-On weekends, I build the same kind of tools for myself and give them away. They have over 750 stars on GitHub.
+👉 [Read the case studies](https://uphillsolutions.tech/work/?utm_source=github&utm_medium=profile&utm_content=recent_work) or [book a free 30 minute call](https://uphillsolutions.tech/contact/?utm_source=github&utm_medium=profile&utm_content=recent_work).
 
-- 🦊 [DesertFox](https://github.com/uhs-robert/desertfox) drives Firefox from the keyboard: link hints, a command line and a which-key popup.
-- 🐦 [DesertBird](https://github.com/uhs-robert/desertbird) does the same for Thunderbird and Betterbird.
-- 📡 [sshfs.nvim](https://github.com/uhs-robert/sshfs.nvim) and [sshfs.yazi](https://github.com/uhs-robert/sshfs.yazi) edit remote servers over SSH as if they were local files.
+## 🛡️ Built to Last
 
-The rest are pinned at the bottom of this page. If they save you time, support the work: <kbd><a href="https://github.com/sponsors/uhs-robert?metadata_source=profile">💖 Sponsor</a></kbd> <kbd><a href="https://ko-fi.com/uphillsolutions">☕ Ko-fi</a></kbd>
+Software is only cheap if it stays cheap to change. I write down the rules that matter, test them, and set up AI guardrails that keep them intact. Your team can ask an AI to make a change without breaking what matters. When a change needs an engineer, I am a call away.
+
+## 🌵 Open Source
+
+On weekends, I build tools for myself and give them away. [DesertFox](https://github.com/uhs-robert/desertfox), full keyboard control for Firefox, took under two weeks. The highlights are pinned at the bottom of this page.
+
+If they save you time, support the work: <kbd><a href="https://github.com/sponsors/uhs-robert?metadata_source=profile">💖 Sponsor</a></kbd> <kbd><a href="https://ko-fi.com/uphillsolutions">☕ Ko-fi</a></kbd>
 
 ## 🧗 Why UpHill Solutions?
 
@@ -47,10 +56,8 @@ So I automated it, one piece at a time. Now I shrink other people's boulders.
 > **How we work together:**
 >
 > 1. I learn how your team works and where the friction is.
-> 2. We agree on the smallest tool that removes it.
-> 3. I build it, ship it, and keep it running.
-
-I work with nonprofits, startups and enterprise teams that are ready to stop doing the same work twice.
+> 2. We agree on the smallest piece of software that removes it.
+> 3. I build it, ship it, and hand it over with guardrails your team can live with.
 
 ## 🤝 Get in Touch
 
