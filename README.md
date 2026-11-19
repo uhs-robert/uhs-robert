@@ -25,6 +25,12 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>: I elimin
 - 🥾 **Fun Fact:** If I'm not online then I'm probably hiking uphill with my family (commitment to the brand)
 - 📫 **Reach me:** [Schedule Free Consult](https://uphillsolutions.tech/contact/) | [Website](https://uphillsolutions.tech) | [Email](mailto:robert.hill@uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
 
+## 🌵 Open Source
+
+Clients pay me to automate their busy work. On weekends, I automate my own. The highlights are pinned at the bottom of this page.
+
+If they save you time, support the work: <kbd><a href="https://github.com/sponsors/uhs-robert">💖 Sponsor</a></kbd> <kbd><a href="https://ko-fi.com/uphillsolutions">☕ Ko-fi</a></kbd>
+
 ## 🧰 Languages and Tools
 
 <h3 align="left">Fluent in...</h3>
@@ -80,14 +86,6 @@ Your uphill battles are my terrain, let’s find a way to simplify your work tog
 
 📬 **Or send an email:** <robert.hill@uphillsolutions.tech>
 
-## 🛟 Support Open Source
-
-If my projects save you time or help you in anyway, consider offering your support for maintenance and new features.
-
-<div>
-  <a href="https://github.com/sponsors/uhs-robert"><img alt="Sponsor on GitHub Sponsors" src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-6DDFA0?style=for-the-badge&labelColor=192330&logo=githubsponsors&logoColor=white" /></a>
-  <a href="https://ko-fi.com/uphillsolutions"><img alt="Buy me a coffee on Ko-fi" src="https://img.shields.io/badge/Kofi-Buy%20me%20a%20coffee-FFA0A0?style=for-the-badge&labelColor=192330&logo=kofi&logoColor=white" /></a>
-</div>
 <hr>
 <div align=center>
   <p><em>The climb to the top continues below</em></p>
