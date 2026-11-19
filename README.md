@@ -21,7 +21,7 @@ I run <a href="https://uphillsolutions.tech/?utm_source=github&utm_medium=profil
 
 ## 🛠️ What that looks like
 
-Some of what I've been building lately:
+A few things I've built:
 
 - A communication platform for court-ordered cases, where every message has to hold up in front of a judge.
 - A live sync that pushes employee changes from an HR and payroll system into a senior living community's app the moment HR saves them.
