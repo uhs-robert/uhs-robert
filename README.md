@@ -10,7 +10,6 @@
   <div>
     <a href="https://uphillsolutions.tech/contact/"><img alt="Book a free 30 minute session" src="https://img.shields.io/badge/📆%20Book%20Session-Free%2030%20Minutes-76C4FD?style=for-the-badge&labelColor=192330" /></a>
     <a href="https://uphillsolutions.tech"><img alt="Website: uphillsolutions.tech" src="https://img.shields.io/badge/Website-uphillsolutions.tech-FFBA80?style=for-the-badge&labelColor=192330&logo=googlechrome&logoColor=white" /></a>
-    <a href="https://github.com/sponsors/uhs-robert"><img alt="Sponsor on GitHub Sponsors" src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-6DDFA0?style=for-the-badge&labelColor=192330&logo=githubsponsors&logoColor=white" /></a>
   </div>
 </div>
 
@@ -28,7 +27,7 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>: I elimin
 
 ## 🌵 Open Source
 
-Clients pay me to automate their busy work. On weekends, I automate my own. The pinned projects below are the highlights.
+Clients pay me to automate their busy work. On weekends, I automate my own. The highlights are pinned at the bottom of this page.
 
 If they save you time, support the work:
 
