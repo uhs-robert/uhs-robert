@@ -17,7 +17,7 @@
 
 If your team copies the same data between three tools every week, I can probably make that stop.
 
-I run <a href="https://uphillsolutions.tech/?utm_source=github&utm_medium=profile&utm_content=intro">UpHill Solutions</a>, a one-person software shop. I build custom apps, connect the systems you already pay for, and automate the boring parts. I use whatever stack fits the job, and I ship in weeks, not quarters.
+I run <a href="https://uphillsolutions.tech/?utm_source=github&utm_medium=profile&utm_content=intro">UpHill Solutions</a>, a one-person software shop. I build custom apps, connect the systems you already pay for, and automate the boring parts. I use whatever stack fits the job, and most projects ship in a few weeks.
 
 ## 🛠️ What that looks like
 
@@ -26,15 +26,15 @@ Some of what I've been building lately:
 - A communication platform for court-ordered cases, where every message has to hold up in front of a judge.
 - A live sync that pushes employee changes from an HR and payroll system into a senior living community's app the moment HR saves them.
 - A first pass with AI that ranks flagged messages by risk, so the moderators get to the worst ones first and still decide every case themselves.
-- The backup, restore and cleanup jobs nobody thinks about until the day they matter.
+- Automated backups with a tested restore, plus scheduled cleanup jobs.
 
-Some of it runs on Knack, some on Ruby, Node or Google Apps Script. I pick the tool for the problem, not the other way around.
+Some of it runs on Knack, some on Ruby, Node or Google Apps Script.
 
 [Read the case studies](https://uphillsolutions.tech/work/?utm_source=github&utm_medium=profile&utm_content=recent_work) or [book a free 30-minute call](https://uphillsolutions.tech/contact/?utm_source=github&utm_medium=profile&utm_content=recent_work).
 
 ## 🛡️ Software your team can actually change
 
-Most custom software freezes the day the contractor leaves. I write down the rules that matter, test them, and set up AI with guardrails so your team can ask for changes without breaking things. If something gets hairy, you call me.
+When I hand a project over, it comes with written rules, tests and an AI setup with guardrails, so your team can ask for changes without breaking things. If something gets hairy, you call me.
 
 ## 🌵 Open Source
 
