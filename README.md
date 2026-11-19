@@ -42,7 +42,7 @@ You call me when it's actually hard. That's how I run my own projects, and it's 
 
 ## 🌵 Open Source
 
-On weekends I build tools for myself and give them away. [DesertFox](https://github.com/uhs-robert/desertfox), which drives Firefox from the keyboard, took me under two weeks. My favorites are pinned at the bottom of this page.
+On weekends I build tools for myself and give them away. [DesertFox](https://github.com/uhs-robert/desertfox) lets you drive Firefox from the keyboard, and its CLI and API let other programs drive it too. It took me under two weeks. My favorites are pinned at the bottom of this page.
 
 If they save you time, support the work: <kbd><a href="https://github.com/sponsors/uhs-robert?metadata_source=profile">💖 Sponsor</a></kbd> <kbd><a href="https://ko-fi.com/uphillsolutions">☕ Ko-fi</a></kbd>
 
