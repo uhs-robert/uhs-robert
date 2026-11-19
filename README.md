@@ -25,7 +25,7 @@ Some of what I've been building lately:
 
 - A communication platform for court-ordered cases, where every message has to hold up in front of a judge.
 - A live sync that pushes employee changes from an HR and payroll system into a senior living community's app the moment HR saves them.
-- AI that sorts flagged messages so human moderators see the risky ones first. The AI never makes the call.
+- A first pass with AI that ranks flagged messages by risk, so the moderators get to the worst ones first and still decide every case themselves.
 - The backup, restore and cleanup jobs nobody thinks about until the day they matter.
 
 Some of it runs on Knack, some on Ruby, Node or Google Apps Script. I pick the tool for the problem, not the other way around.
