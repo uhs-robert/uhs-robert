@@ -66,7 +66,7 @@ Clients pay me to automate their busy work. On weekends, I automate my own:
 </table>
 </div>
 
-If they save you time, [sponsor me on GitHub](https://github.com/sponsors/uhs-robert).
+<p align="center">If they save you time, <a href="https://github.com/sponsors/uhs-robert">sponsor me on GitHub</a>.</p>
 
 ## 🧰 Languages and Tools
 
