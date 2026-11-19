@@ -30,7 +30,7 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>: I elimin
 
 Clients pay me to automate their busy work. On weekends, I automate my own. The pinned projects below are the highlights.
 
-If they save you time, [sponsor me on GitHub](https://github.com/sponsors/uhs-robert).
+If they save you time, [sponsor me on GitHub](https://github.com/sponsors/uhs-robert) or [buy me a coffee on Ko-fi](https://ko-fi.com/uphillsolutions).
 
 ## 🧰 Languages and Tools
 
@@ -87,14 +87,6 @@ Your uphill battles are my terrain, let’s find a way to simplify your work tog
 
 📬 **Or send an email:** <robert.hill@uphillsolutions.tech>
 
-## 🛟 Support Open Source
-
-If my projects save you time or help you in any way, consider offering your support for maintenance and new features.
-
-<div>
-  <a href="https://github.com/sponsors/uhs-robert"><img alt="Sponsor on GitHub Sponsors" src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-6DDFA0?style=for-the-badge&labelColor=192330&logo=githubsponsors&logoColor=white" /></a>
-  <a href="https://ko-fi.com/uphillsolutions"><img alt="Buy me a coffee on Ko-fi" src="https://img.shields.io/badge/Kofi-Buy%20me%20a%20coffee-FFA0A0?style=for-the-badge&labelColor=192330&logo=kofi&logoColor=white" /></a>
-</div>
 <hr>
 <div align=center>
   <p><em>The climb to the top continues below</em></p>
