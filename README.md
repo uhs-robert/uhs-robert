@@ -29,7 +29,7 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>: I elimin
 
 Clients pay me to automate their busy work. On weekends, I automate my own. The highlights are pinned at the bottom of this page.
 
-If they save you time, support the work: <a href="https://github.com/sponsors/uhs-robert"><img src="./profile/sponsors.svg" width="16" height="16" alt="" /> Sponsor on GitHub</a> · <a href="https://ko-fi.com/uphillsolutions"><img src="./profile/kofi.svg" width="16" height="16" alt="" /> Buy me a coffee</a>
+If they save you time, support the work: <kbd><a href="https://github.com/sponsors/uhs-robert">💖 Sponsor</a></kbd> <kbd><a href="https://ko-fi.com/uphillsolutions">☕ Ko-fi</a></kbd>
 
 ## 🧰 Languages and Tools
 
