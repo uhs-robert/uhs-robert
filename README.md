@@ -29,7 +29,12 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>: I elimin
 
 Clients pay me to automate their busy work. On weekends, I automate my own. The highlights are pinned at the bottom of this page.
 
-If they save you time, support the work: <a href="https://github.com/sponsors/uhs-robert"><img align="center" alt="Sponsor on GitHub Sponsors" src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-6DDFA0?style=for-the-badge&labelColor=192330&logo=githubsponsors&logoColor=white" /></a> <a href="https://ko-fi.com/uphillsolutions"><img align="center" alt="Buy me a coffee on Ko-fi" src="https://img.shields.io/badge/Kofi-Buy%20me%20a%20coffee-FFA0A0?style=for-the-badge&labelColor=192330&logo=kofi&logoColor=white" /></a>
+If they save you time, support the work:
+
+<div>
+  <a href="https://github.com/sponsors/uhs-robert"><img alt="Sponsor on GitHub Sponsors" src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-6DDFA0?style=for-the-badge&labelColor=192330&logo=githubsponsors&logoColor=white" /></a>
+  <a href="https://ko-fi.com/uphillsolutions"><img alt="Buy me a coffee on Ko-fi" src="https://img.shields.io/badge/Kofi-Buy%20me%20a%20coffee-FFA0A0?style=for-the-badge&labelColor=192330&logo=kofi&logoColor=white" /></a>
+</div>
 
 ## 🧰 Languages and Tools
 
