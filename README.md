@@ -32,9 +32,13 @@ Some of it runs on Knack, some on Ruby, Node or Google Apps Script.
 
 [Read the case studies](https://uphillsolutions.tech/work/?utm_source=github&utm_medium=profile&utm_content=recent_work) or [book a free 30-minute call](https://uphillsolutions.tech/contact/?utm_source=github&utm_medium=profile&utm_content=recent_work).
 
-## 🛡️ Software your team can actually change
+## 🛡️ Software you can change without me
 
-When I hand a project over, it comes with written rules, tests and an AI setup with guardrails, so your team can ask for changes without breaking things. If something gets hairy, you call me.
+Most custom software means calling the developer for every small change, and paying for it. I build mine so you don't have to.
+
+Say your office manager wants a new field on the intake form. They ask an AI assistant, it makes the change, and the rules and tests I leave behind catch anything that would break billing or your reports. You check it and ship it.
+
+You call me when it's actually hard. That's how I run my own projects, and it's how I hand over yours.
 
 ## 🌵 Open Source
 
