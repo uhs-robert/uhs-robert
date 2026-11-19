@@ -10,6 +10,7 @@
   <div>
     <a href="https://uphillsolutions.tech/contact/"><img alt="Book a free 30 minute session" src="https://img.shields.io/badge/📆%20Book%20Session-Free%2030%20Minutes-76C4FD?style=for-the-badge&labelColor=192330" /></a>
     <a href="https://uphillsolutions.tech"><img alt="Website: uphillsolutions.tech" src="https://img.shields.io/badge/Website-uphillsolutions.tech-FFBA80?style=for-the-badge&labelColor=192330&logo=googlechrome&logoColor=white" /></a>
+    <a href="https://github.com/sponsors/uhs-robert"><img alt="Sponsor on GitHub Sponsors" src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-6DDFA0?style=for-the-badge&labelColor=192330&logo=githubsponsors&logoColor=white" /></a>
   </div>
 </div>
 
@@ -24,6 +25,17 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>: I elimin
 - 🧠 **Talk to Me About:** Business processes, automation, web development, your business' headaches, or your current processes
 - 🥾 **Fun Fact:** If I'm not online then I'm probably hiking uphill with my family (commitment to the brand)
 - 📫 **Reach me:** [Schedule Free Consult](https://uphillsolutions.tech/contact/) | [Website](https://uphillsolutions.tech) | [Email](mailto:robert.hill@uphillsolutions.tech) | [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
+
+## 🌵 Open Source
+
+When I am not pushing boulders for clients, I build keyboard-first tools for Vim users:
+
+- [sshfs.nvim](https://github.com/uhs-robert/sshfs.nvim) and [sshfs.yazi](https://github.com/uhs-robert/sshfs.yazi): edit remote systems over SSH as if they were local files.
+- [oasis.nvim](https://github.com/uhs-robert/oasis.nvim) and [tmux-oasis](https://github.com/uhs-robert/tmux-oasis): desert-inspired themes with 16 styles each.
+- [hyprvim](https://github.com/uhs-robert/hyprvim): Vim motions everywhere on Hyprland, with a Which-Key HUD.
+- [DesertFox](https://github.com/uhs-robert/desertfox) and [DesertBird](https://github.com/uhs-robert/desertbird): drive Firefox and Thunderbird from the keyboard.
+
+If they save you time, [sponsor me on GitHub](https://github.com/sponsors/uhs-robert).
 
 ## 🧰 Languages and Tools
 
@@ -82,7 +94,7 @@ Your uphill battles are my terrain, let’s find a way to simplify your work tog
 
 ## 🛟 Support Open Source
 
-If my projects save you time or help you in anyway, consider offering your support for maintenance and new features.
+If my projects save you time or help you in any way, consider offering your support for maintenance and new features.
 
 <div>
   <a href="https://github.com/sponsors/uhs-robert"><img alt="Sponsor on GitHub Sponsors" src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-6DDFA0?style=for-the-badge&labelColor=192330&logo=githubsponsors&logoColor=white" /></a>
