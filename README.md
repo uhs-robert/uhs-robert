@@ -30,10 +30,43 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>: I elimin
 
 Clients pay me to automate their busy work. On weekends, I automate my own:
 
-- [sshfs.nvim](https://github.com/uhs-robert/sshfs.nvim) and [sshfs.yazi](https://github.com/uhs-robert/sshfs.yazi): edit remote systems over SSH as if they were local files.
-- [oasis.nvim](https://github.com/uhs-robert/oasis.nvim) and [tmux-oasis](https://github.com/uhs-robert/tmux-oasis): desert-inspired themes with 16 styles each.
-- [hyprvim](https://github.com/uhs-robert/hyprvim): Vim motions everywhere on Hyprland, with a Which-Key HUD.
-- [DesertFox](https://github.com/uhs-robert/desertfox) and [DesertBird](https://github.com/uhs-robert/desertbird): drive Firefox and Thunderbird from the keyboard.
+<p align="center">
+  <a href="https://github.com/uhs-robert/oasis.nvim"><img alt="oasis.nvim: desert-inspired Neovim colorschemes in dark and light styles" src="https://raw.githubusercontent.com/uhs-robert/oasis.nvim/screenshots/socials/Oasis%20Social%20-%20Fit.png" /></a>
+</p>
+
+<table>
+  <thead>
+    <tr><th>Area</th><th>Project</th><th>What it does</th></tr>
+  </thead>
+  <tbody>
+    <tr><td rowspan="3"><b>Neovim</b></td>
+      <td><a href="https://github.com/uhs-robert/sshfs.nvim">sshfs.nvim</a></td>
+      <td>Edit remote systems over SSH as if they were local files</td></tr>
+    <tr><td><a href="https://github.com/uhs-robert/oasis.nvim">oasis.nvim</a></td>
+      <td>16 high-contrast, desert-inspired colorschemes</td></tr>
+    <tr><td><a href="https://github.com/uhs-robert/color-chameleon.nvim">color-chameleon.nvim</a></td>
+      <td>Switch colorschemes by rules for where you are working</td></tr>
+    <tr><td rowspan="2"><b>Yazi</b></td>
+      <td><a href="https://github.com/uhs-robert/sshfs.yazi">sshfs.yazi</a></td>
+      <td>Mount, browse and edit remote systems from Yazi</td></tr>
+    <tr><td><a href="https://github.com/uhs-robert/recycle-bin.yazi">recycle-bin.yazi</a></td>
+      <td>A recycle bin with browse, restore and cleanup</td></tr>
+    <tr><td rowspan="4"><b>Hyprland / Arch</b></td>
+      <td><a href="https://github.com/uhs-robert/hyprvim">hyprvim</a></td>
+      <td>Vim motions everywhere, with a Which-Key HUD</td></tr>
+    <tr><td><a href="https://github.com/uhs-robert/oasis-dots">oasis-dots</a></td>
+      <td>A keyboard-driven Arch workstation for Vim users</td></tr>
+    <tr><td><a href="https://github.com/uhs-robert/tmux-oasis">tmux-oasis</a></td>
+      <td>A desert theme for tmux with 16 styles</td></tr>
+    <tr><td><a href="https://github.com/uhs-robert/waybar-weather-widget">waybar-weather-widget</a></td>
+      <td>A Waybar weather widget that finds your location</td></tr>
+    <tr><td rowspan="2"><b>Browser / Mail</b></td>
+      <td><a href="https://github.com/uhs-robert/desertfox">DesertFox</a></td>
+      <td>Drive Firefox from the keyboard</td></tr>
+    <tr><td><a href="https://github.com/uhs-robert/desertbird">DesertBird</a></td>
+      <td>Drive Thunderbird and Betterbird from the keyboard</td></tr>
+  </tbody>
+</table>
 
 If they save you time, [sponsor me on GitHub](https://github.com/sponsors/uhs-robert).
 
