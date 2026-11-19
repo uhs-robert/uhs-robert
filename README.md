@@ -13,59 +13,50 @@
   </div>
 </div>
 
-# 👨‍💻 Robert | Custom Software for Small Organizations
+# 👨‍💻 Robert | Software Engineer & Consultant
 
-**Your team does the same work twice. I build the software that stops it.**
+If your team copies the same data between three tools every week, I can probably make that stop.
 
-Custom apps, integrations and automation, in any stack, shipped in weeks. Built so your team can change it safely with AI. I step in when it gets hard.
+I run <a href="https://uphillsolutions.tech/?utm_source=github&utm_medium=profile&utm_content=intro">UpHill Solutions</a>, a one-person software shop. I build custom apps, connect the systems you already pay for, and automate the boring parts. I use whatever stack fits the job, and I ship in weeks, not quarters.
 
-Founder of <a href="https://uphillsolutions.tech/?utm_source=github&utm_medium=profile&utm_content=intro">UpHill Solutions</a>. Based in the USA, working with teams everywhere.
+When I'm not at a keyboard, I'm probably hiking uphill with my family (commitment to the brand).
 
-## 🛠️ What I Build
+## 🛠️ What that looks like
 
-- 🗂️ **Custom apps and portals** that replace the spreadsheet or the off-the-shelf tool that never quite fit.
-- 🔌 **Integrations** that connect HR, payments, SMS, mail and your database, so nobody retypes data.
-- ⏱️ **Automation** that runs on its own: scheduled jobs, webhooks, backups and reports.
-- 🤖 **AI with a human in the loop.** AI sorts, drafts and flags. A person decides.
-- 🧱 **Knack, extended.** Custom code, integrations and servers for Knack apps that outgrew the builder.
+Some of what I've been building lately:
 
-## 🧭 Recent Work
+- A communication platform for court-ordered cases, where every message has to hold up in front of a judge.
+- A live sync that pushes employee changes from UKG into a senior living community's app the moment HR saves them.
+- AI that sorts flagged messages so human moderators see the risky ones first. The AI never makes the call.
+- The backup, restore and cleanup jobs nobody thinks about until the day they matter.
 
-- A court-grade communication platform: AI triage that speeds up human moderators, and transcripts ready for court.
-- A senior living community: a residents' platform and a real-time employee sync from UKG.
-- Behind both: payment and SMS integrations, backup and restore, and incident response.
+Some of it runs on Knack, some on Ruby, Node or Google Apps Script. I pick the tool for the problem, not the other way around.
 
-👉 [Read the case studies](https://uphillsolutions.tech/work/?utm_source=github&utm_medium=profile&utm_content=recent_work) or [book a free 30 minute call](https://uphillsolutions.tech/contact/?utm_source=github&utm_medium=profile&utm_content=recent_work).
+[Read the case studies](https://uphillsolutions.tech/work/?utm_source=github&utm_medium=profile&utm_content=recent_work) or [book a free 30-minute call](https://uphillsolutions.tech/contact/?utm_source=github&utm_medium=profile&utm_content=recent_work).
 
-## 🛡️ Built to Last
+## 🛡️ Software your team can actually change
 
-Software is only cheap if it stays cheap to change. I write down the rules that matter, test them, and set up AI guardrails that keep them intact. Your team can ask an AI to make a change without breaking what matters. When a change needs an engineer, I am a call away.
+Most custom software freezes the day the contractor leaves. I write down the rules that matter, test them, and set up AI with guardrails so your team can ask for changes without breaking things. If something gets hairy, you call me.
 
 ## 🌵 Open Source
 
-On weekends, I build tools for myself and give them away. [DesertFox](https://github.com/uhs-robert/desertfox), full keyboard control for Firefox, took under two weeks. The highlights are pinned at the bottom of this page.
+On weekends I build tools for myself and give them away. [DesertFox](https://github.com/uhs-robert/desertfox), which drives Firefox from the keyboard, took me under two weeks. My favorites are pinned at the bottom of this page.
 
 If they save you time, support the work: <kbd><a href="https://github.com/sponsors/uhs-robert?metadata_source=profile">💖 Sponsor</a></kbd> <kbd><a href="https://ko-fi.com/uphillsolutions">☕ Ko-fi</a></kbd>
 
-## 🧗 Why UpHill Solutions?
+## 🧗 Why "UpHill"?
 
-Sisyphus was cursed to push a boulder up a hill every day, forever. My boulder was `CTRL+C` and `CTRL+V`: the same work, over and over.
+I love Greek mythology, especially Sisyphus: a man cursed to push a boulder up a hill, every day, forever.
 
-So I automated it, one piece at a time. Now I shrink other people's boulders.
+We all have a boulder. Mine was `CTRL+C` and `CTRL+V`, doing the same thing over and over. So I started automating it, and my boulder keeps getting smaller.
 
-> **How we work together:**
->
-> 1. I learn how your team works and where the friction is.
-> 2. We agree on the smallest piece of software that removes it.
-> 3. I build it, ship it, and hand it over with guardrails your team can live with.
+That's the job now. We talk about where your team loses time, agree on the smallest fix worth building, and I build it.
 
 ## 🤝 Get in Touch
 
-☎️ **Let's talk:** [Book a free 30 minute call](https://uphillsolutions.tech/contact/?utm_source=github&utm_medium=profile&utm_content=contact)
+The easiest start is a [free 30-minute call](https://uphillsolutions.tech/contact/?utm_source=github&utm_medium=profile&utm_content=contact). Bring the task your team hates most.
 
-📬 **Email:** <robert.hill@uphillsolutions.tech>
-
-💼 **LinkedIn:** [Robert Hill](https://www.linkedin.com/in/robert-hill-a6a189125/)
+📬 <robert.hill@uphillsolutions.tech> · 💼 [LinkedIn](https://www.linkedin.com/in/robert-hill-a6a189125/)
 
 ## 🧰 Languages and Tools
 
