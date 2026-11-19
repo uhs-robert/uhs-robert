@@ -24,7 +24,7 @@ I run <a href="https://uphillsolutions.tech/?utm_source=github&utm_medium=profil
 Some of what I've been building lately:
 
 - A communication platform for court-ordered cases, where every message has to hold up in front of a judge.
-- A live sync that pushes employee changes from UKG into a senior living community's app the moment HR saves them.
+- A live sync that pushes employee changes from an HR and payroll system into a senior living community's app the moment HR saves them.
 - AI that sorts flagged messages so human moderators see the risky ones first. The AI never makes the call.
 - The backup, restore and cleanup jobs nobody thinks about until the day they matter.
 
