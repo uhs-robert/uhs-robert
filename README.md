@@ -23,10 +23,11 @@ I run <a href="https://uphillsolutions.tech/?utm_source=github&utm_medium=profil
 
 A few things I've built:
 
-- A communication platform for court-ordered cases, where every message has to hold up in front of a judge.
-- A live sync that pushes employee changes from an HR and payroll system into a senior living community's app the moment HR saves them.
-- A first pass with AI that ranks flagged messages by risk, so the moderators get to the worst ones first and still decide every case themselves.
-- Automated backups with a tested restore, plus scheduled cleanup jobs.
+- A mediation platform for high-conflict co-parenting, where any message can become court evidence. Over several years, I've moved its operations off manual work one system at a time.
+- A compliance import that took 10 hours now takes under 2 minutes. It has since processed nearly 39,000 records.
+- A monthly job that ran six hours into the workday now takes 15 minutes, on a $5-a-month server.
+- A 10-second page load cut to 2 seconds, without a rewrite.
+- A payment pipeline that found a bug in the payment provider's own API, worked around it and reported it upstream.
 
 Some of it runs on Knack, some on Ruby, Node or Google Apps Script.
 
