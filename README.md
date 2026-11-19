@@ -28,7 +28,7 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>: I elimin
 
 ## 🌵 Open Source
 
-When I am not pushing boulders for clients, I build keyboard-first tools for Vim users:
+When I am not hiking uphill, I build keyboard-first tools for Vim users:
 
 - [sshfs.nvim](https://github.com/uhs-robert/sshfs.nvim) and [sshfs.yazi](https://github.com/uhs-robert/sshfs.yazi): edit remote systems over SSH as if they were local files.
 - [oasis.nvim](https://github.com/uhs-robert/oasis.nvim) and [tmux-oasis](https://github.com/uhs-robert/tmux-oasis): desert-inspired themes with 16 styles each.
