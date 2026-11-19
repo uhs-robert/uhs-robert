@@ -30,6 +30,7 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>: I elimin
 
 Clients pay me to automate their busy work. On weekends, I automate my own:
 
+<div align="center">
 <table>
   <thead>
     <tr><th>Area</th><th>Project</th><th>What it does</th></tr>
@@ -63,6 +64,7 @@ Clients pay me to automate their busy work. On weekends, I automate my own:
       <td>Drive Thunderbird and Betterbird from the keyboard</td></tr>
   </tbody>
 </table>
+</div>
 
 If they save you time, [sponsor me on GitHub](https://github.com/sponsors/uhs-robert).
 
