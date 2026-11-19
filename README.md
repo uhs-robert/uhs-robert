@@ -19,8 +19,6 @@ If your team copies the same data between three tools every week, I can probably
 
 I run <a href="https://uphillsolutions.tech/?utm_source=github&utm_medium=profile&utm_content=intro">UpHill Solutions</a>, a one-person software shop. I build custom apps, connect the systems you already pay for, and automate the boring parts. I use whatever stack fits the job, and I ship in weeks, not quarters.
 
-When I'm not at a keyboard, I'm probably hiking uphill with my family (commitment to the brand).
-
 ## 🛠️ What that looks like
 
 Some of what I've been building lately:
@@ -51,6 +49,8 @@ I love Greek mythology, especially Sisyphus: a man cursed to push a boulder up a
 We all have a boulder. Mine was `CTRL+C` and `CTRL+V`, doing the same thing over and over. So I started automating it, and my boulder keeps getting smaller.
 
 That's the job now. We talk about where your team loses time, agree on the smallest fix worth building, and I build it.
+
+And when I'm not at a keyboard, I'm usually hiking uphill with my family. Commitment to the brand.
 
 ## 🤝 Get in Touch
 
