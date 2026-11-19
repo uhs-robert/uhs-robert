@@ -30,10 +30,6 @@ Founder of <a href="https://uphillsolutions.tech">UpHill Solutions</a>: I elimin
 
 Clients pay me to automate their busy work. On weekends, I automate my own:
 
-<p align="center">
-  <a href="https://github.com/uhs-robert/oasis.nvim"><img alt="oasis.nvim: desert-inspired Neovim colorschemes in dark and light styles" src="https://raw.githubusercontent.com/uhs-robert/oasis.nvim/screenshots/socials/Oasis%20Social%20-%20Fit.png" /></a>
-</p>
-
 <table>
   <thead>
     <tr><th>Area</th><th>Project</th><th>What it does</th></tr>
