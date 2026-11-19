@@ -27,7 +27,7 @@ A few things I've built:
 - A compliance import that took 10 hours now takes under 2 minutes. It has since processed nearly 39,000 records.
 - A monthly job that ran six hours into the workday now takes 15 minutes, on a $5-a-month server.
 - A 10-second page load cut to 2 seconds, without a rewrite.
-- A payment pipeline that found a bug in the payment provider's own API, worked around it and reported it upstream.
+- A bot attack on a public signup form, shut down within days without locking out a single real user.
 
 Some of it runs on Knack, some on Ruby, Node or Google Apps Script.
 
